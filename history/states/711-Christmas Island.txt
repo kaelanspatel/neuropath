@@ -6,7 +6,7 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = LUX
 		buildings = {
 			infrastructure = 3
 			13005 = {

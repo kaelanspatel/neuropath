@@ -3,13 +3,13 @@ state={
 	name="STATE_583"
 
 	history={
-		owner = SOV
+		owner = LUX
 		add_core_of = KAZ
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = SOV
+		add_core_of = LUX
 		victory_points = {
 			10312 1
 		}
