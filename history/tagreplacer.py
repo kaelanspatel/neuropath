@@ -1,7 +1,7 @@
 import os
 
 directory = 'states' # directory for files; script should be one level up from directory
-to_replace = 'YUN' # string to be replaced
+to_replace = 'MAL' # string to be replaced
 replace = 'LUX' # what to replace string to be replaced with
 
 def main():

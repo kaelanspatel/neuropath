@@ -7,8 +7,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = INS
-		add_core_of = INS
+		owner = LUX
+		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
 			1574 = {
