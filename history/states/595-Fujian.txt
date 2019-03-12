@@ -5,9 +5,9 @@ state= {
 	state_category = city
 	history=
 	{
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = LUX
+		add_core_of = LUX
+		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -30,7 +30,7 @@ state= {
 		}
 
 		1938.10.25 = {		
-			JAP = {
+			LUX = {
 				set_province_controller = 4196
 				set_province_controller = 7071
 			} 			

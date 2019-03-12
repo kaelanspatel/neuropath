@@ -11,10 +11,10 @@ state={
 	}
 
 	history={
-		owner = GXC
-		add_core_of = GXC
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = LUX
+		add_core_of = LUX
+		add_core_of = LUX
+		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -28,10 +28,10 @@ state={
 				limit = {
 					NOT = { has_dlc = "Waking the Tiger" }
 				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
+				remove_core_of = LUX
+				LUX = { transfer_state = PREV }
 			}
-			JAP = {
+			LUX = {
 				set_province_controller = 1018
 				set_province_controller = 4023
 				set_province_controller = 10004

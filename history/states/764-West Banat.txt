@@ -6,14 +6,14 @@ state={
 	state_category = town
 
 	history={
-		owner = YUG
-		controller = YUG
+		owner = LUX
+		controller = LUX
 
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = YUG
-		add_core_of = SER
+		add_core_of = LUX
+		add_core_of = LUX
 	}
 
 	provinces={

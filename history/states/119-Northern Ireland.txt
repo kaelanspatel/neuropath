@@ -19,7 +19,7 @@ state={
 			}
 		}
 		add_core_of = LUX
-		add_core_of = IRE
+		add_core_of = LUX
 		add_core_of = NIR
 	}
 

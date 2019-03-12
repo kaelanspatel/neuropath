@@ -3,9 +3,9 @@ state={
 	name="STATE_620"
 
 	history={
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = LUX
+		add_core_of = LUX
+		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
 			arms_factory = 3
@@ -23,7 +23,7 @@ state={
 				arms_factory = 2
 
 			}
-			JAP = {
+			LUX = {
 				set_province_controller = 1036
 				set_province_controller = 4619
 				set_province_controller = 4631

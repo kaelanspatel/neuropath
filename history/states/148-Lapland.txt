@@ -11,11 +11,11 @@ state={
 		chromium=2 # was: 2
 	}
 	history={
-		owner = FIN
+		owner = LUX
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = FIN
+		add_core_of = LUX
 	}
 
 	provinces={

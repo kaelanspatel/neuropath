@@ -6,16 +6,16 @@ state={
 	state_category = town
 
 	history={
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = LUX
+		add_core_of = LUX
+		add_core_of = LUX
 		buildings = {
 			infrastructure = 3
 
 		}
 
 		1938.10.25 = {
-			controller = JAP
+			controller = LUX
 		}
 	}
 
