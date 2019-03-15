@@ -26,9 +26,9 @@ ideologies = {
 		}
 	}
 
-	neuro_communism = {
+	neuro_communist = {
 		types = {
-			neuro_communism_subtype = {} #generic
+			neuro_communist_subtype = {} #generic
 		}
 		color = { 155 17 58 }
 		rules = {
@@ -44,11 +44,11 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_NEURO_COMMUNISM_1"
-			"FACTION_NAME_NEURO_COMMUNISM_2"
-			"FACTION_NAME_NEURO_COMMUNISM_3"
-			"FACTION_NAME_NEURO_COMMUNISM_4"
-			"FACTION_NAME_NEURO_COMMUNISM_5"
+			"FACTION_NAME_NEURO_COMMUNIST_1"
+			"FACTION_NAME_NEURO_COMMUNIST_2"
+			"FACTION_NAME_NEURO_COMMUNIST_3"
+			"FACTION_NAME_NEURO_COMMUNIST_4"
+			"FACTION_NAME_NEURO_COMMUNIST_5"
 		}
 	}
 	

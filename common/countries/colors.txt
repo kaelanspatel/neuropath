@@ -477,19 +477,19 @@ CSA = {
 }
 
 CAT = {
-	color = rgb { 115 125 186  }
+	color = rgb { 86 93 136  }
 	color_ui = rgb { 186 205 219 }
 }
 CCN = {
-	color = rgb { 115 125 186  }
+	color = rgb { 86 93 136  }
 	color_ui = rgb { 186 205 219 }
 }
 CQB = {
-	color = rgb { 115 125 186  }
+	color = rgb { 86 93 136  }
 	color_ui = rgb { 186 205 219 }
 }
 PMX = {
-	color = rgb { 115 125 186  }
+	color = rgb { 86 93 136  }
 	color_ui = rgb { 186 205 219 }
 }
 
