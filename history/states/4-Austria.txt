@@ -26,9 +26,9 @@ state={
 		add_core_of = LUX
 
 		1938.3.12 = {
-			owner = LUX
-			controller = LUX
-			add_core_of = LUX
+			owner = GER
+			controller = GER
+			add_core_of = GER
 		}
 		1939.1.1 = {
 			buildings = {

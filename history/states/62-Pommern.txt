@@ -11,12 +11,12 @@ state={
 		victory_points = {
 			9388 1
 		}
-		owner = LUX
+		owner = GER
 		buildings = {
 			infrastructure = 6
 			fuel_silo = 1
 		}
-		add_core_of = LUX
+		add_core_of = GER
 
 		1939.1.1 = {
 			buildings = {

@@ -492,6 +492,11 @@ PMX = {
 	color = rgb { 86 93 136  }
 	color_ui = rgb { 186 205 219 }
 }
+EUR = {
+	color = rgb { 213 174 196  }
+	color_ui = rgb { 186 205 219 }
+}
+
 
 
 D01 = {

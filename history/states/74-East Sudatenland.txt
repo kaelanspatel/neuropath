@@ -20,8 +20,8 @@ state=
 		add_core_of = LUX
 
 		1938.9.30 = {
-			owner = LUX
-			controller = LUX
+			owner = GER
+			controller = GER
 		}
 	}
 	provinces= {
