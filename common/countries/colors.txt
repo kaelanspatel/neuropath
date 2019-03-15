@@ -1,11 +1,11 @@
 #reload countrycolors
 
 GER = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 213 174 196   }
 	color_ui = rgb { 138 155 116 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
@@ -17,7 +17,7 @@ SWE = {
 	color_ui = rgb { 47 172 255 }
 }
 FRA = {
-	color = rgb { 57 113 228 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 74 147 255 }
 }
 LUX = {
@@ -54,11 +54,11 @@ LAT = {
 	color_ui = rgb { 124 125 184 }
 }
 SPR = {
-	color = rgb { 242 205 94 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 255 255 122 }
 }
 ITA = {
-	color = rgb { 67 127 63 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 87 165 82 }
 }
 ROM = {
@@ -70,7 +70,7 @@ YUG = {
 	color_ui = rgb { 94 95 164 }
 }
 SWI = {
-	color = rgb { 224 5 5 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
@@ -86,11 +86,11 @@ ALB = {
 	color_ui = rgb { 194 59 133 }
 }
 NOR = {
-	color = rgb { 111 71 71 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 144 92 92 }
 }
 DEN = {
-	color = rgb { 153 116 93 }
+	color = rgb { 213 174 196    }
 	color_ui = rgb { 199 151 121 }
 }
 BUL = {
@@ -493,10 +493,13 @@ PMX = {
 	color_ui = rgb { 186 205 219 }
 }
 EUR = {
-	color = rgb { 213 174 196  }
+	color = rgb { 213 174 196   }
 	color_ui = rgb { 186 205 219 }
 }
-
+BEN = {
+	color = rgb { 213 174 196   }
+	color_ui = rgb { 186 205 219 }
+}
 
 
 D01 = {
