@@ -129,23 +129,47 @@ if = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 97
+		esotericist = { 
+			popularity = 14
 		}
 
-		fascism = {
-			popularity = 1
+		neuro_communist = {
+			popularity = 22
 		}
 		
-		communism = {
-			popularity = 2
+		orthodox_marxist = {
+			popularity = 25
+		}
+		
+		libertarian_socialist = {
+			popularity = 28
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 4
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 7
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = libertarian_socialist
 	last_election = "1935.10.22"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = never
 }
 
 1939.1.1 = {
