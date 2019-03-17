@@ -6,9 +6,9 @@ state={
 	
 	state_category = pastoral
 	history={
-		owner = LUX
-		add_core_of = LUX
-		add_claim_by = LUX
+		owner = SOV
+		add_core_of = SOV
+		add_claim_by = JAP
 		buildings = {
 			infrastructure = 3
 			air_base = 1

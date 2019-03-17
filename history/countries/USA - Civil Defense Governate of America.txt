@@ -96,28 +96,6 @@ if = {
 	add_ideas = MTG_naval_treaty_adherent
 }
 
-#Monroe Doctrine
-give_guarantee = CAN
-give_guarantee = MEX
-give_guarantee = CUB
-give_guarantee = HAI
-give_guarantee = DOM
-give_guarantee = GUA
-give_guarantee = HON
-give_guarantee = ELS
-give_guarantee = NIC
-give_guarantee = COS
-give_guarantee = PAN
-give_guarantee = VEN
-give_guarantee = COL
-give_guarantee = ECU
-give_guarantee = PRU
-give_guarantee = BRA
-give_guarantee = BOL
-give_guarantee = CHL
-give_guarantee = PAR
-give_guarantee = ARG
-give_guarantee = URG
 
 1939.1.1 = {
 
@@ -262,24 +240,47 @@ set_convoys = 400
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 99
+		esotericist = { 
+			popularity = 64
 		}
 
-		fascism = {
+		neuro_communist = {
 			popularity = 0
 		}
 		
-		communism = {
-			popularity = 1
-			#banned = no #default is no
+		orthodox_marxist = {
+			popularity = 0
+		}
+		
+		libertarian_socialist = {
+			popularity = 3
+		}
+		
+		radical_ultranationalist = {
+			popularity = 8
+		}
+		
+		authoritarian = {
+			popularity = 9
+		}
+		
+		classical_liberal = {
+			popularity = 11
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 5
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = esotericist
 	last_election = "1932.11.8"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = never
 }
 
 add_ideas = {
@@ -324,13 +325,13 @@ set_autonomy = {
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "Henry J. Hatch"
+	desc = ""
+	picture = ""
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = esotericist_subtype
 	traits = {
-		dislikes_germany
+		
 	}
 }
 

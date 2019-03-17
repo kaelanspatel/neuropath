@@ -3,13 +3,13 @@ state={
 	name="STATE_404"
 
 	history={
-		owner = LUX
+		owner = SOV
 		add_core_of = KAZ
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = LUX
+		add_core_of = SOV
 
 	}
 

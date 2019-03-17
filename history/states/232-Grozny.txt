@@ -11,14 +11,14 @@ state={
 	}
 
 	history={
-		owner = LUX
+		owner = SOV
 		buildings = {
 			infrastructure = 4
 		}
 		victory_points = {
 			3672 5 
 		}
-		add_core_of = LUX
+		add_core_of = SOV
 	}
 
 	provinces={

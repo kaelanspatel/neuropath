@@ -9,9 +9,9 @@ state= {
 	state_category = rural
 
 	history= {
-		owner = LUX
-		#add_core_of = LUX
-		#add_claim_by = LUX # Removed because of too much aggression
+		owner = JAP
+		#add_core_of = JAP
+		#add_claim_by = SOV # Removed because of too much aggression
 		buildings = {
 			infrastructure = 3
 			12446 = {
