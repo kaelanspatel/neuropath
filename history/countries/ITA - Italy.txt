@@ -216,20 +216,44 @@ set_convoys = 200
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 22
+		esotericist = { 
+			popularity = 2
 		}
 
-		fascism = {
-			popularity = 76
+		neuro_communist = {
+			popularity = 47
 		}
 		
-		communism = {
-			popularity = 2
+		orthodox_marxist = {
+			popularity = 30
+		}
+		
+		libertarian_socialist = {
+			popularity = 12
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 0
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 9
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = neuro_communist
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no

@@ -324,34 +324,49 @@ create_country_leader = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 97
+		esotericist = { 
+			popularity = 13
 		}
 
-		fascism = {
+		neuro_communist = {
 			popularity = 2
 		}
 		
-		communism = {
-			popularity = 1
+		orthodox_marxist = {
+			popularity = 27
+		}
+		
+		libertarian_socialist = {
+			popularity = 32
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 6
+		}
+		
+		reactionary_conservative = {
+			popularity = 4
+		}
+		
+		social_democrat = {
+			popularity = 16
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = libertarian_socialist
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes ##suspended through duration of war, which is handled via event
 }
 
-
-
-create_faction = Allies
-add_to_faction = ENG
-#add_to_faction = FRA
-add_to_faction = CAN
-add_to_faction = AST
-add_to_faction = NZL
-add_to_faction = SAF
 
 give_military_access = RAJ
 add_to_faction = RAJ		# Must be after puppet

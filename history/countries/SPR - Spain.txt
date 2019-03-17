@@ -61,20 +61,44 @@ if = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 47
+		esotericist = { 
+			popularity = 6
 		}
 
-		fascism = {
-			popularity = 46
+		neuro_communist = {
+			popularity = 19
 		}
 		
-		communism = {
-			popularity = 7
+		orthodox_marxist = {
+			popularity = 29
+		}
+		
+		libertarian_socialist = {
+			popularity = 33
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 1
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 12
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = libertarian_socialist
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes

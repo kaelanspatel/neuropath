@@ -79,20 +79,44 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 83
+		esotericist = { 
+			popularity = 6
 		}
 
-		fascism = {
-			popularity = 11
+		neuro_communist = {
+			popularity = 12
 		}
 		
-		communism = {
-			popularity = 6
+		orthodox_marxist = {
+			popularity = 57
+		}
+		
+		libertarian_socialist = {
+			popularity = 21
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 2
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 2
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = orthodox_marxist
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = yes

@@ -128,20 +128,44 @@ set_stability = 0.7
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 96
+		esotericist = { 
+			popularity = 16
 		}
 
-		fascism = {
+		neuro_communist = {
+			popularity = 23
+		}
+		
+		orthodox_marxist = {
+			popularity = 40
+		}
+		
+		libertarian_socialist = {
+			popularity = 14
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
 			popularity = 2
 		}
 		
-		communism = {
-			popularity = 2
+		reactionary_conservative = {
+			popularity = 1
+		}
+		
+		social_democrat = {
+			popularity = 4
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = orthodox_marxist
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes

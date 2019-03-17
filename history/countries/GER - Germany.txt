@@ -284,21 +284,44 @@ create_import = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 20
+		esotericist = { 
+			popularity = 3
 		}
 
-		fascism = {
-			popularity = 60
+		neuro_communist = {
+			popularity = 31
 		}
 		
-		communism = {
-			popularity = 20
-			banned = yes #default is no
+		orthodox_marxist = {
+			popularity = 40
+		}
+		
+		libertarian_socialist = {
+			popularity = 9
+		}
+		
+		radical_ultranationalist = {
+			popularity = 2
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 2
+		}
+		
+		reactionary_conservative = {
+			popularity = 3
+		}
+		
+		social_democrat = {
+			popularity = 10
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = orthodox_marxist
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

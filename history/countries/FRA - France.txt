@@ -206,24 +206,58 @@ set_convoys = 300
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 69
+		esotericist = { 
+			popularity = 7
 		}
 
-		fascism = {
-			popularity = 1
+		neuro_communist = {
+			popularity = 14
 		}
 		
-		communism = {
-			popularity = 30
+		orthodox_marxist = {
+			popularity = 41
+		}
+		
+		libertarian_socialist = {
+			popularity = 29
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 4
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 5
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = orthodox_marxist
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+create_faction = Allies
+add_to_faction = ENG
+add_to_faction = FRA
+add_to_faction = GER
+add_to_faction = BEN
+add_to_faction = SWI
+add_to_faction = SPR
+add_to_faction = ITA
+add_to_faction = NOR
 
 add_ideas = {
 	FRA_victors_of_wwi
