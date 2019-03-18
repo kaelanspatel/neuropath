@@ -1,0 +1,30 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_generic_box_smallest_cover"
+		texturefile = "gfx/interface/generic_box_smallest_cover.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_esotericist_small"
+		texturefile = "gfx/interface/ideologies/esotericist_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_neuro_communist_small"
+		texturefile = "gfx/interface/ideologies/neuro_communist_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_libertarian_socialist_small"
+		texturefile = "gfx/interface/ideologies/libertarian_socialist_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_orthodox_marxist_small"
+		texturefile = "gfx/interface/ideologies/orthodox_marxist_group.dds"
+	}
+	
+}
+
