@@ -7,7 +7,7 @@ state=
 	state_category = rural
 	history=
 	{
-		owner = LUX
+		owner = GRE
 		victory_points = {
 			9940 5
 		}
@@ -25,7 +25,7 @@ state=
 				naval_base = 3
 			}
 		}
-		add_core_of = LUX
+		add_core_of = GRE
 	}
 	provinces=
 	{

@@ -10,8 +10,8 @@ state= {
 	state_category = city
 
 	history= {
-		add_claim_by = LUX
-		owner = LUX
+		add_claim_by = GRE
+		owner = TUR
 		victory_points = {
 			9833 20
 		}
@@ -25,7 +25,7 @@ state= {
 				naval_base = 8
 			}
 		}
-		add_core_of = LUX
+		add_core_of = TUR
 	}
 	provinces=
 	{

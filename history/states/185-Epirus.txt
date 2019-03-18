@@ -21,7 +21,7 @@ state={
 		victory_points = {
 			1205 1
 		}
-		owner = LUX
+		owner = GRE
 		buildings = {
 			infrastructure = 4
 			air_base = 3
@@ -29,7 +29,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = LUX
+		add_core_of = GRE
 	}
 
 	provinces={
