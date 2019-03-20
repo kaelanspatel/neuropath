@@ -377,11 +377,11 @@ add_to_faction = MAL
 # Order matters - here Chamberlain becomes starting leader
 
 create_country_leader = {
-	name = "Winston Churchill"
-	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
-	picture = "Portrait_Britain_Winston_Churchill.dds"
+	name = "Tony Blair"
+	desc = "POLITICS_TODO_DESC"
+	picture = "portrait_blair.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = libertarian_socialist_subtype
 	traits = {
 		#traits here need to also be added to events britain.9 and britain.10. Don't ask why.
 	}

@@ -249,7 +249,7 @@ set_politics = {
 	elections_allowed = yes
 }
 
-create_faction = Allies
+create_faction = ARCOM
 add_to_faction = ENG
 add_to_faction = FRA
 add_to_faction = GER
@@ -270,11 +270,11 @@ add_ideas = {
 
 #Order matters here Daladier will start as leaders because added last
 create_country_leader = {
-	name = "Charles de Gaulle"
-	desc = "POLITICS_CHARLES_DE_GAULLE_DESC"
-	picture = "Portrait_France_Charles_De_Gaulle.dds"
+	name = "Georges Marchais"
+	desc = "POLITICS_TODO_DESC"
+	picture = "portrait_marchais.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = orthodox_marxist_subtype
 	traits = {
 		
 	}
