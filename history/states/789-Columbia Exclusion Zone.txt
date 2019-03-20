@@ -1,0 +1,24 @@
+state={
+	id=789
+	name="STATE_789" # Columbia Exclusion Zone
+	manpower = 0
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		victory_points = {
+			
+		}
+		owner = USA
+		buildings = {
+			
+		}
+		add_core_of = USA
+
+	}
+
+	provinces={
+		3917 788 11738 865 6846 3823 873 10343 1506 11873 951 11888 9923 3957 6823 6892 6929 6984 9758 9786 11892 11769 11758 847 822 6869 3824 6845 11740 11782 11900 9801 9864 
+	}
+}
