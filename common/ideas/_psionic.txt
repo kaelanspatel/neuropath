@@ -6,7 +6,7 @@ ideas = {
 		non_psionic = {
 			
 		
-			cost = 150
+			cost = -1
 			removal_cost = -1
 			
 			modifier = {
@@ -21,32 +21,11 @@ ideas = {
 		minor_psionic_power = {
 			
 			available = {
-				has_war_support > 0.15
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						has_completed_focus = USA_limited_intervention
-						has_defensive_war = no
-					}
-					has_war_support > 0.3
-					congress_high_support_trigger = yes
-				}	
+				
+			
 			}
 			on_add = {
-				if = {
-					limit = {
-						tag = USA
-						has_completed_focus = USA_limited_intervention
-						has_defensive_war = no
-					}
-					USA_congress_large_opposition = yes
-				}
+				
 			}
 			
 			cost = 150
@@ -54,8 +33,11 @@ ideas = {
 			
 			modifier = {
 				consumer_goods_factor = 0.05
-				production_speed_industrial_complex_factor = 0.07
-				production_speed_arms_factory_factor = 0.07
+				production_factory_efficiency_gain_factor = 0.07
+				production_factory_max_efficiency_factor = 0.07
+				production_factory_start_efficiency_factor = 0.07
+				research_time_factor = -0.05
+				encryption_factor = 0.05
 				conscription_factor = -0.1
 			}
 			
@@ -70,43 +52,13 @@ ideas = {
 					is_major = yes
 				}
    			}
-		}
+		} 
 		
 		major_psionic_power = {
 			
 			
 			available = {
-				has_war_support > 0.5
-				OR = {
-					has_government = fascism
-					has_government = communism
-					custom_trigger_tooltip = { tooltip = or_clarification_tooltip always = no }
-					AND = {
-						has_war = yes
-						any_enemy_country = {
-							ic_ratio = { 
-								tag = ROOT 
-								ratio > 0.4
-							}
-						}
-					}
-				}
-
-				if = {
-					limit = {
-						original_tag = HUN
-						has_dlc = "Death or Dishonor"
-					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
-				}
-				if = {
-					limit = {
-						has_completed_focus = USA_limited_intervention
-						has_defensive_war = no
-					}
-					has_war_support > 0.75
-					congress_high_support_trigger = yes
-				}		
+				
 			}
 		
 			cost = 150
@@ -114,21 +66,17 @@ ideas = {
 			
 			modifier = {
 				consumer_goods_factor = 0.15
-				production_speed_industrial_complex_factor = 0.15
-				production_speed_arms_factory_factor = 0.15
+				production_factory_efficiency_gain_factor = 0.15
+				production_factory_max_efficiency_factor = 0.15
+				production_factory_start_efficiency_factor = 0.15
+				encryption_factor = 0.10
+				research_time_factor = -0.10
 				conscription_factor = -0.35
 			}
 			
 			cancel_if_invalid = no
 			on_add = {
-				if = {
-					limit = {
-						tag = USA
-						has_completed_focus = USA_limited_intervention
-						has_defensive_war = no
-					}
-					USA_congress_large_opposition = yes
-				}
+			
 			}
 			ai_will_do = {
    				factor = 5
