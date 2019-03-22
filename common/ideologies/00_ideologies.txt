@@ -106,12 +106,12 @@ ideologies = {
 		}
 	}
 	
-	radical_ultranationalist = {
+	social_democrat = {
 		types = {
-			radical_ultranationalist_subtype = {}
+			social_democrat_subtype = {}
 				
 		}
-		color = { 144 105 0 }
+		color = { 255 102 153 }
 		rules = {
 			can_force_government = no
 			can_puppet = no
@@ -125,38 +125,11 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_1"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_2"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_3"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_4"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_5"
-		}
-	}
-	
-	authoritarian = {
-		types = {
-			authoritarian_subtype = {}
-				
-		}
-		color = { 64 64 64 }
-		rules = {
-			can_force_government = no
-			can_puppet = no
-			can_join_factions = no
-			can_send_volunteers = yes
-		}		
-		modifiers = {
-			join_faction_tension = 0.80
-			generate_wargoal_tension = 1.00
-		}
-		ai_neutral = yes	
-		can_be_boosted = no
-		dynamic_faction_names = {
-			"FACTION_NAME_AUTHORITARIAN_1"
-			"FACTION_NAME_AUTHORITARIAN_2"
-			"FACTION_NAME_AUTHORITARIAN_3"
-			"FACTION_NAME_AUTHORITARIAN_4"
-			"FACTION_NAME_AUTHORITARIAN_5"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_2"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_3"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_4"
+			"FACTION_NAME_SOCIAL_DEMOCRAT_5"
 		}
 	}
 	
@@ -214,12 +187,12 @@ ideologies = {
 		}
 	}
 	
-	social_democrat = {
+	authoritarian = {
 		types = {
-			social_democrat_subtype = {}
+			authoritarian_subtype = {}
 				
 		}
-		color = { 255 102 153 }
+		color = { 64 64 64 }
 		rules = {
 			can_force_government = no
 			can_puppet = no
@@ -233,11 +206,40 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_SOCIAL_DEMOCRAT_1"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_2"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_3"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_4"
-			"FACTION_NAME_SOCIAL_DEMOCRAT_5"
+			"FACTION_NAME_AUTHORITARIAN_1"
+			"FACTION_NAME_AUTHORITARIAN_2"
+			"FACTION_NAME_AUTHORITARIAN_3"
+			"FACTION_NAME_AUTHORITARIAN_4"
+			"FACTION_NAME_AUTHORITARIAN_5"
 		}
 	}
+	
+	radical_ultranationalist = {
+		types = {
+			radical_ultranationalist_subtype = {}
+				
+		}
+		color = { 144 105 0 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}		
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 1.00
+		}
+		ai_neutral = yes	
+		can_be_boosted = no
+		dynamic_faction_names = {
+			"FACTION_NAME_RADICAL_ULTRANATIONALIST_1"
+			"FACTION_NAME_RADICAL_ULTRANATIONALIST_2"
+			"FACTION_NAME_RADICAL_ULTRANATIONALIST_3"
+			"FACTION_NAME_RADICAL_ULTRANATIONALIST_4"
+			"FACTION_NAME_RADICAL_ULTRANATIONALIST_5"
+		}
+	}
+	
+	
 }
