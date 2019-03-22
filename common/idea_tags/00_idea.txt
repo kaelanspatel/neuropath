@@ -18,9 +18,8 @@ idea_categories = {
 		slot = mobilization_laws
 		slot = trade_laws
 		slot = economy
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
+		slot = psionic
+		
 		
 		cost = 150
 		removal_cost = 0
@@ -51,13 +50,4 @@ idea_categories = {
 		removal_cost = 0
 	}
 	
-	psionic = {
-	
-		slot = np_category_psionics
-		
-		
-		cost = 150
-		removal_cost = 0
-	
-	}
 }
