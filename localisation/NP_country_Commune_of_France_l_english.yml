@@ -37,6 +37,24 @@ FRA_social_democrat_DEF:0 "the French Republic"
 
 
 ### Parties ###
+FRA_esotericist_party:0 "APF"
+FRA_esotericist_party_long:0 "Armée Psionique Fédérale"
+FRA_neuro_communist_party:0 "SFIC"
+FRA_neuro_communist_party_long:0 "Section Française de l'Internationale Communiste"
+FRA_orthodox_marxist_party:0 "SFIO"
+FRA_orthodox_marxist_party_long:0 "Section Française de l'Internationale Ouvrière"
+FRA_libertarian_socialist_party:0 "SFIO"
+FRA_libertarian_socialist_party_long:0 "Section Française de l'Internationale Ouvrière"
+FRA_radical_ultranationalist_party:0 "Patriotes"
+FRA_radical_ultranationalist_party_long:0 "Patriotes"
+FRA_authoritarian_party:0 "Patriotes"
+FRA_authoritarian_party_long:0 "Patriotes"
+FRA_classical_liberal_party:0 "Mouvement Libéral"
+FRA_classical_liberal_party_long:0 "Mouvement Libéral"
+FRA_reactionary_conservative_party:0 "Mouvement Libéral"
+FRA_reactionary_conservative_party_long:0 "Mouvement Libéral"
+FRA_social_democrat_party:0 "PS"
+FRA_social_democrat_party_long:0 "Parti Socialiste"
 
 ### Focuses ###
 
