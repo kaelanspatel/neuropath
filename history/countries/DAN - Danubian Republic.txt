@@ -24,27 +24,48 @@ set_research_slots = 3
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 65
+		esotericist = { 
+			popularity = 3
 		}
 
-		neutrality = { 
-			popularity = 20
-		}
-
-		fascism = {
-			popularity = 5
+		neuro_communist = {
+			popularity = 69
 		}
 		
-		communism = {
-			popularity = 10
+		orthodox_marxist = {
+			popularity = 2
+		}
+		
+		libertarian_socialist = {
+			popularity = 17
+		}
+		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
+			popularity = 2
+		}
+		
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 7
 		}
 	}
+	}
 	
-	ruling_party = democratic
+	ruling_party = neuro_communist
 	last_election = "1935.5.19"
 	election_frequency = 60
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 create_country_leader = {

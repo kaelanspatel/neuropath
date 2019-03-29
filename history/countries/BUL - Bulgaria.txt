@@ -78,24 +78,44 @@ set_convoys = 5
 set_politics = {
 
 	parties = {
-		democratic = { 
+		esotericist = { 
 			popularity = 5
 		}
 
-		fascism = {
-			popularity = 35
+		neuro_communist = {
+			popularity = 63
 		}
 		
-		communism = {
-			popularity = 0
-			banned = yes
+		orthodox_marxist = {
+			popularity = 7
 		}
-		neutrality = { 
-			popularity = 60
+		
+		libertarian_socialist = {
+			popularity = 6
+		}
+		
+		radical_ultranationalist = {
+			popularity = 4
+		}
+		
+		authoritarian = {
+			popularity = 2
+		}
+		
+		classical_liberal = {
+			popularity = 3
+		}
+		
+		reactionary_conservative = {
+			popularity = 3
+		}
+		
+		social_democrat = {
+			popularity = 7
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = neuro_communist
 	last_election = "1931.6.21"
 	election_frequency = 48
 	elections_allowed = no

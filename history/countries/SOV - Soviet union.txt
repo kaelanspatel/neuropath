@@ -261,29 +261,58 @@ set_convoys = 50
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 10 #shared between all parties, should add to 100
+		esotericist = { 
+			popularity = 5
 		}
 
-		fascism = {
+		neuro_communist = {
+			popularity = 89
+		}
+		
+		orthodox_marxist = {
+			popularity = 1
+		}
+		
+		libertarian_socialist = {
+			popularity = 1
+		}
+		
+		radical_ultranationalist = {
+			popularity = 1
+		}
+		
+		authoritarian = {
+			popularity = 0
+		}
+		
+		classical_liberal = {
 			popularity = 2
 		}
 		
-		communism = {
-			popularity = 88
+		reactionary_conservative = {
+			popularity = 0
+		}
+		
+		social_democrat = {
+			popularity = 0
 		}
 	}
 	
-	ruling_party = communism
+	ruling_party = neuro_communist
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-create_faction = Comintern
+create_faction = NEUROCOM
 add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
+add_to_faction = POL
+add_to_faction = YUG
+add_to_faction = GRE
+add_to_faction = ALB
+add_to_faction = BUL
+add_to_faction = ROM
+add_to_faction = DAN
 
 
 add_ideas = {
