@@ -283,6 +283,14 @@ set_politics = {
 	elections_allowed = never
 }
 
+create_faction = Pacific Union Treaty
+add_to_faction = USA
+add_to_faction = JAP
+add_to_faction = CAT
+add_to_faction = CCN
+add_to_faction = PMX
+add_to_faction = CQB
+
 add_ideas = {
 	
 }

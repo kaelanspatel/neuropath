@@ -60,7 +60,7 @@ set_politics = {
 			popularity = 7
 		}
 	}
-	}
+	
 	
 	ruling_party = neuro_communist
 	last_election = "1935.5.19"
