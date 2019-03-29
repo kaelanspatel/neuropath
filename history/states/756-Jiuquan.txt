@@ -8,10 +8,10 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = wasteland
 	history={
-		owner = LUX
-		add_core_of = LUX
-		add_core_of = LUX
-		add_core_of = LUX
+		owner = XSM
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
 		buildings = {
 			infrastructure = 1
 
@@ -24,7 +24,7 @@ state={
 					}
 
 				}
-				LUX = {
+				CHI = {
 					transfer_state = PREV
 
 				}

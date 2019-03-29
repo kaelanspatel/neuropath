@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = LUX
+		owner = KOR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
