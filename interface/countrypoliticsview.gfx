@@ -368,8 +368,8 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "GFX_ideology_moderate_socialist_group"
-		texturefile = "gfx/interface/ideologies/moderate_socialist.dds"
+		name = "GFX_ideology_technocrat_group"
+		texturefile = "gfx/interface/ideologies/technocrat_group.dds"
 	}
 	
 	spriteType = {

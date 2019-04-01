@@ -59,6 +59,10 @@ set_politics = {
 		social_democrat = {
 			popularity = 7
 		}
+		
+		technocrat = {
+			popularity = 0
+		}
 	}
 	
 	

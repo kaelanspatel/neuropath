@@ -241,7 +241,7 @@ set_politics = {
 
 	parties = {
 		esotericist = { 
-			popularity = 64
+			popularity = 17
 		}
 
 		neuro_communist = {
@@ -257,33 +257,37 @@ set_politics = {
 		}
 		
 		radical_ultranationalist = {
-			popularity = 8
+			popularity = 2
 		}
 		
 		authoritarian = {
-			popularity = 9
+			popularity = 1
 		}
 		
 		classical_liberal = {
-			popularity = 11
+			popularity = 5
 		}
 		
 		reactionary_conservative = {
-			popularity = 0
+			popularity = 3
 		}
 		
 		social_democrat = {
-			popularity = 5
+			popularity = 2
+		}
+		
+		technocrat = {
+			popularity = 67
 		}
 	}
 	
-	ruling_party = esotericist
+	ruling_party = technocrat
 	last_election = "1932.11.8"
 	election_frequency = 48
-	elections_allowed = never
+	elections_allowed = no
 }
 
-create_faction = Pacific Union Treaty
+create_faction = Pacific_Union_Treaty
 add_to_faction = USA
 add_to_faction = JAP
 add_to_faction = CAT
@@ -333,7 +337,7 @@ create_country_leader = {
 	desc = ""
 	picture = "portrait_hatch.dds"
 	expire = "1947.1.1"
-	ideology = esotericist_subtype
+	ideology = technocrat_subtype
 	traits = {
 		
 	}

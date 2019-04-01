@@ -231,7 +231,7 @@ set_politics = {
 		}
 		
 		classical_liberal = {
-			popularity = 4
+			popularity = 3
 		}
 		
 		reactionary_conservative = {
@@ -239,7 +239,11 @@ set_politics = {
 		}
 		
 		social_democrat = {
-			popularity = 5
+			popularity = 4
+		}
+		
+		technocrat = {
+			popularity = 2
 		}
 	}
 	

@@ -34,6 +34,9 @@ USA_reactionary_conservative_DEF:0 "the United States of America"
 USA_social_democrat:0 "United States of America"
 USA_social_democrat_ADJ:0 "American"
 USA_social_democrat_DEF:0 "the United States of America"
+USA_technocrat:0 "North American Technate"
+USA_technocrat_ADJ:0 "American"
+USA_technocrat_DEF:0 "the North American Technate"
 
 
 ### Parties ###
@@ -55,6 +58,9 @@ USA_reactionary_conservative_party:0 "FRM"
 USA_reactionary_conservative_party_long:0 "Federal Restoration Movement"
 USA_social_democrat_party:0 "FRM"
 USA_social_democrat_party_long:0 "Federal Restoration Movement"
+
+### Factions ###
+Pacific_Union_Treaty:0 "Pacific Union Treaty"
 
 
 ### Focuses ###

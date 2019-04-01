@@ -266,7 +266,7 @@ set_politics = {
 		}
 
 		neuro_communist = {
-			popularity = 89
+			popularity = 87
 		}
 		
 		orthodox_marxist = {
@@ -295,6 +295,10 @@ set_politics = {
 		
 		social_democrat = {
 			popularity = 0
+		}
+		
+		technocrat = {
+			popularity = 2
 		}
 	}
 	

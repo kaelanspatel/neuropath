@@ -114,6 +114,10 @@ set_politics = {
 		social_democrat = {
 			popularity = 2
 		}
+		
+		technocrat = {
+			popularity = 0
+		}
 	}
 	
 	ruling_party = orthodox_marxist

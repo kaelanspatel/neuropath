@@ -313,11 +313,15 @@ set_politics = {
 		}
 		
 		reactionary_conservative = {
-			popularity = 3
+			popularity = 2
 		}
 		
 		social_democrat = {
 			popularity = 10
+		}
+		
+		technocrat = {
+			popularity = 1
 		}
 	}
 	

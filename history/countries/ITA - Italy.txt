@@ -251,6 +251,10 @@ set_politics = {
 		social_democrat = {
 			popularity = 9
 		}
+		
+		technocrat = {
+			popularity = 0
+		}
 	}
 	
 	ruling_party = neuro_communist
