@@ -10,14 +10,14 @@ state={
 	
 
 	history={
-		owner = LUX
+		owner = PER
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			2026 1 
 		}
-		add_core_of = LUX
+		add_core_of = PER
 	}
 
 	provinces={

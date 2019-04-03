@@ -114,8 +114,8 @@ HUN = {
 	color_ui = rgb { 255 164 127 }
 }
 AFG = {
-	color = rgb { 64 160 167 }
-	color_ui = rgb { 83 208 217 }
+	color = rgb { 93 124 117 }
+	color_ui = rgb { 93 124 117 }
 }
 ARG = {
 	color = rgb { 145 157 236 }
@@ -238,8 +238,8 @@ SIK = {
 	color_ui = rgb { 222 247 198 }
 }
 TIB = {
-	color = rgb { 80 115 45}
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 198 198 198}
+	color_ui = rgb { 169 183 204 }
 }
 URG = {
 	color = rgb { 171 190 152 }
@@ -259,8 +259,8 @@ USA = {
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }
-	color = rgb { 108 140 42 }
-	color_ui = rgb { 209 247 133 }
+	color = rgb { 119 86 92 }
+	color_ui = rgb { 119 86 92 }
 }
 MEN = {
 	color = rgb { 185  255  152 }
@@ -399,13 +399,13 @@ INS = {
 }
 
 VIN = {
-	color = rgb { 230  223  50 }
-	color_ui = rgb { 230  223  50 }
+	color = rgb { 233 234 194 }
+	color_ui = rgb { 233 234 194 }
 }
 
 CAM = {
-	color = rgb { 100  71  150 }
-	color_ui = rgb { 100  71  150 }
+	color = rgb { 237 165 101 }
+	color_ui = rgb { 237 165 101 }
 }
 
 MAL = {
@@ -452,8 +452,8 @@ BOT = {
 	color_ui = rgb { 11 132 112 }
 }
 PAK = {
-	color = rgb { 21 38 66 }
-	color_ui = rgb { 21 38 66 }
+	color = rgb { 99 140 115 }
+	color_ui = rgb { 99 140 115 }
 }
 WGR = {
     color = rgb { 195 236 230 } # The colors are set to be more are less what we are used to
@@ -464,8 +464,8 @@ DDR = {
     color_ui = rgb { 150 180 120 }
 }
 KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
+	color = rgb { 255 43 89 }
+	color_ui = rgb { 252 75 114 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }
@@ -504,7 +504,18 @@ DAN = {
 	color = rgb { 213 174 196   }
 	color_ui = rgb { 186 205 219 }
 }
-
+BRM = {
+	color = rgb { 111 84 124}
+	color_ui = rgb { 111 84 124 }
+}
+LEV = {
+	color = rgb { 252 255 201   }
+	color_ui = rgb { 252 255 201 }
+}
+IND = {
+	color = rgb { 249 186 59}
+	color_ui = rgb { 249 186 59 }
+}
 
 D01 = {
 	color = rgb { 200 100 31 }
