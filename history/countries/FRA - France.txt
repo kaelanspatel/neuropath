@@ -262,13 +262,19 @@ add_to_faction = SWI
 add_to_faction = SPR
 add_to_faction = ITA
 add_to_faction = NOR
+add_to_faction = ALG
+add_to_faction = TUN
+add_to_faction = MOR
+add_to_faction = DEN
 
 add_ideas = {
-	FRA_victors_of_wwi
-	FRA_disjointed_government
-	FRA_protected_by_the_maginot_line
+	
 	limited_conscription
 }
+
+puppet = ALG
+puppet = TUN
+puppet = MOR
 
 #give_guarantee = CZE
 

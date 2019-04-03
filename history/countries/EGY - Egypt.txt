@@ -84,6 +84,12 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_faction = Damascus_Compact
+add_to_faction = EGY
+add_to_faction = LEV
+add_to_faction = SAU
+add_to_faction = LBA	
+
 create_country_leader = {
 	name = "Muhammad Naguib"
 	desc = ""

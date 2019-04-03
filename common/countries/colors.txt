@@ -299,8 +299,8 @@ SLO = {
 	color_ui = rgb { 255 255 255 }
 }
 RAJ = {
-	color = rgb { 204 102 0 }
-	color_ui = rgb { 255 128 0 }
+	color = rgb { 255 165 0 }
+	color_ui = rgb { 255 165 0 }
 }
 
 CRO = {
@@ -509,12 +509,12 @@ BRM = {
 	color_ui = rgb { 111 84 124 }
 }
 LEV = {
-	color = rgb { 252 255 201   }
-	color_ui = rgb { 252 255 201 }
+	color = rgb { 249 186 59 }
+	color_ui = rgb { 249 186 59 }
 }
 IND = {
-	color = rgb { 249 186 59}
-	color_ui = rgb { 249 186 59 }
+	color = rgb { 255 93 0 } # 0 56 224
+	color_ui = rgb { 0 56 224 }
 }
 
 D01 = {
