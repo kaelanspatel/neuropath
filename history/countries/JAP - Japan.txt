@@ -296,7 +296,7 @@ set_politics = {
 		}
 		
 		radical_ultranationalist = {
-			popularity = 1
+			popularity = 0
 		}
 		
 		authoritarian = {
@@ -304,7 +304,7 @@ set_politics = {
 		}
 		
 		classical_liberal = {
-			popularity = 6
+			popularity = 3
 		}
 		
 		reactionary_conservative = {
@@ -312,11 +312,11 @@ set_politics = {
 		}
 		
 		social_democrat = {
-			popularity = 6
+			popularity = 2
 		}
 		
 		technocrat = {
-			popularity = 1
+			popularity = 9
 		}
 	}
 	

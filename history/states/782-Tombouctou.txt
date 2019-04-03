@@ -8,8 +8,8 @@ state={
 	impassable = yes
 
 	history={
-		owner = LUX
-		add_core_of = LUX
+		owner = MLI
+		add_core_of = MLI
 		buildings = {
 			infrastructure = 0
 		}
