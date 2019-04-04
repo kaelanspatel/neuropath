@@ -270,7 +270,7 @@ set_politics = {
 		}
 		
 		orthodox_marxist = {
-			popularity = 1
+			popularity = 2
 		}
 		
 		libertarian_socialist = {

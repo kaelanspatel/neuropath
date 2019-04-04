@@ -173,24 +173,51 @@ if = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 98
+		esotericist = { 
+			popularity = 16
 		}
 
-		fascism = {
-			popularity = 0
+		neuro_communist = {
+			popularity = 1
 		}
 		
-		communism = {
+		orthodox_marxist = {
+			popularity = 1
+		}
+		
+		libertarian_socialist = {
 			popularity = 2
-			#banned = no #default is no
+		}
+		
+		radical_ultranationalist = {
+			popularity = 2
+		}
+		
+		authoritarian = {
+			popularity = 1
+		}
+		
+		classical_liberal = {
+			popularity = 3
+		}
+		
+		reactionary_conservative = {
+			popularity = 9
+		}
+		
+		social_democrat = {
+			popularity = 10
+		}
+		
+		technocrat = {
+			popularity = 55
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = technocrat
 	last_election = "1934.9.15"
 	election_frequency = 36
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 create_country_leader = {

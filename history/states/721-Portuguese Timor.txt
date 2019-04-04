@@ -7,7 +7,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = LUX
+		owner = AST
 		buildings = {
 			infrastructure = 3
 			12190 ={

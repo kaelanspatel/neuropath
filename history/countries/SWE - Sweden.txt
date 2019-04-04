@@ -144,56 +144,105 @@ if = {
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 75
+		esotericist = { 
+			popularity = 47
 		}
 
-		neutrality = {
-			popularity  = 14
+		neuro_communist = {
+			popularity = 6
 		}
-
-		communism = {
-			popularity = 8
+		
+		orthodox_marxist = {
+			popularity = 7
 		}
-
-		fascism = {
+		
+		libertarian_socialist = {
 			popularity = 3
 		}
 		
+		radical_ultranationalist = {
+			popularity = 0
+		}
+		
+		authoritarian = {
+			popularity = 1
+		}
+		
+		classical_liberal = {
+			popularity = 13
+		}
+		
+		reactionary_conservative = {
+			popularity = 7
+		}
+		
+		social_democrat = {
+			popularity = 15
+		}
+		
+		technocrat = {
+			popularity = 1
+		}
+			
 	}
-	
-	ruling_party = democratic
-	last_election = "1932.9.18"
+		
+	ruling_party = esotericist
+	last_election = "1936.9.20"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
+	
 }
 
 1939.1.1 = {
 	set_politics = {
 
 		parties = {
-			democratic = { 
-				popularity = 85
+			esotericist = { 
+				popularity = 55
 			}
 
-			neutrality = {
-				popularity  = 12
+			neuro_communist = {
+				popularity = 2
 			}
-
-			communism = {
+			
+			orthodox_marxist = {
+				popularity = 3
+			}
+			
+			libertarian_socialist = {
+				popularity = 3
+			}
+			
+			radical_ultranationalist = {
+				popularity = 0
+			}
+			
+			authoritarian = {
+				popularity = 1
+			}
+			
+			classical_liberal = {
 				popularity = 4
 			}
-
-			fascism = {
+			
+			reactionary_conservative = {
+				popularity = 3
+			}
+			
+			social_democrat = {
+				popularity = 28
+			}
+			
+			technocrat = {
 				popularity = 1
 			}
 			
 		}
 		
-		ruling_party = democratic
+		ruling_party = esotericist
 		last_election = "1936.9.20"
 		election_frequency = 48
-		elections_allowed = yes
+		elections_allowed = no
 	}
 }
 
