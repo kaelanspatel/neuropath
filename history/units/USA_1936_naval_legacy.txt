@@ -313,7 +313,7 @@ units= {
 		# ATLANTIC RESERVES #
 		task_force = {					
 			name = "Atlantic Reserve Destroyers"		# Decommissioned ships docked in Philadelphia					
-			location = 6845 # Philadelphia
+			location = 3878 # Philadelphia
 			ship = { name = "USS Allen" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }	
 			ship = { name = "USS Colhoun" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
 			ship = { name = "USS Gregory" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
@@ -332,7 +332,7 @@ units= {
 		}					
 		task_force = {					
 			name = "Atlantic Reserve Submarines"		# Decommissioned ships docked in Philadelphia	
-			location = 6845 # Philadelphia
+			location = 3878 # Philadelphia
 			ship = { name = "USS O-2" definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
 			ship = { name = "USS O-3" definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
 			ship = { name = "USS O-4" definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }

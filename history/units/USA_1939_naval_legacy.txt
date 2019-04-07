@@ -378,7 +378,7 @@ units= {
 		}					
 		task_force = {					
 			name = "Destroyer Squadron 30"				
-			location = 6845 # Philadelphia
+			location = 3878 # Philadelphia
 			ship = { name = "USS Gilmer" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
 			# 60th Destroyer Division				
 			ship = { name = "USS Du Pont" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
@@ -392,7 +392,7 @@ units= {
 		}					
 		task_force = {					
 			name = "Destroyer Squadron 41"				
-			location = 6845 # Philadelphia
+			location = 3878 # Philadelphia
 			ship = { name = "USS Dallas" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
 			# 82nd Destroyer Division				
 			ship = { name = "USS Hatfield" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
@@ -462,17 +462,17 @@ units= {
 	### ATLANTIC RESERVES ###
 	fleet = {
 		name = "Atlantic Reserve Fleet"			
-		naval_base = 6845 # Philadelphia
+		naval_base = 3878 # Philadelphia
 		task_force = {					
 			name = "Atlantic Reserve Destroyers"		# Decommissioned ships docked in Philadelphia					
-			location = 6845 # Philadelphia
+			location = 3878 # Philadelphia
 			ship = { name = "USS Allen" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }	
 			ship = { name = "USS Noa" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
 			ship = { name = "USS Dahlgren" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
 		}					
 		task_force = {					
 			name = "Reserve Submarine Squadron"			# Decommissioned ships docked in Philadelphia	
-			location = 6845 # Philadelphia
+			location = 3878 # Philadelphia
 			# 1st Submarine Division			
 			ship = { name = "USS O-2" definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
 			ship = { name = "USS O-3" definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
