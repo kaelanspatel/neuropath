@@ -253,11 +253,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Władysław Sikorski"
-	desc = "POLITICS_WLADYSLAW_SIKORSKI_DESC"
-	picture = "Portrait_Poland_Wladyslaw_Sikorski.dds"
+	name = "Czesław Kiszczak"
+	desc = "POLITICS_TODO_DESC"
+	picture = "portrait_kiszczak.dds"
 	expire = "1965.1.1"
-	ideology = oligarchism
+	ideology = neuro_communist_subtype
 	traits = {
 		#
 	}
