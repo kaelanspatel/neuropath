@@ -38,7 +38,8 @@ LEV_technocrat:0 "Levantine Technate"
 LEV_technocrat_ADJ:0 "Levantine"
 LEV_technocrat_DEF:0 "the Levantine Technate"
 
-
+### Factions ###
+Damascus_Compact:0 "Damascus Compact"
 
 ### Parties ###
 

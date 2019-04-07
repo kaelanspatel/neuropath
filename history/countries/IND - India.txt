@@ -164,11 +164,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lord Linlithgow"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "gfx/leaders/RAJ/Portrait_British_Raj_Lord_Linlithgow.dds"
+	name = "Shankersinh Vaghela"
+	desc = "POLITICS_TODO_DESC"
+	picture = "gfx/leaders/IND/portrait_vaghela.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = radical_ultranationalist_subtype
 	traits = {
 		
 	}

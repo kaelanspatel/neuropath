@@ -38,7 +38,8 @@ SOV_technocrat:0 "Russian Technate"
 SOV_technocrat_ADJ:0 "Russian"
 SOV_technocrat_DEF:0 "the Russian Technate"
 
-
+### Factions ###
+NEUROCOM:0 "Awakened Comintern"
 
 ### Parties ###
 

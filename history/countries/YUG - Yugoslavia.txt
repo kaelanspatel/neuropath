@@ -264,11 +264,11 @@ set_politics = {
 set_stability = 0.6
 
 create_country_leader = {
-	name = "Prince Paul"
-	desc = "POLITICS_PRINCE_PAUL_DESC"
-	picture = "Portrait_Yugoslavia_Prince_Paul.dds"
+	name = "Stjepan Mesić"
+	desc = "POLITICS_TODO_DESC"
+	picture = "portrait_mesić.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = neuro_communist_subtype
 	traits = {
 		#
 	}

@@ -73,11 +73,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Edvard Beneš"
-	desc = "POLITICS_EDVARD_BENES_DESC"
-	picture = "Portrait_Czech_Edvard_Benes.dds"
+	name = "Franz Vranitzky"
+	desc = "POLITICS_TODO_DESC"
+	picture = "portrait_vranitzky.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = neuro_communist_subtype
 	traits = {
 		#
 	}

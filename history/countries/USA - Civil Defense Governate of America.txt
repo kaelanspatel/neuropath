@@ -297,6 +297,7 @@ add_to_faction = PMX
 add_to_faction = CQB
 add_to_faction = PHI
 add_to_faction = AST
+add_to_faction = INS
 
 puppet = CAT
 puppet = CCN
