@@ -60,25 +60,48 @@ set_convoys = 20
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 25
+		esotericist = { 
+			popularity = 0
 		}
 
-		fascism = {
-			popularity = 20
+		neuro_communist = {
+			popularity = 1
 		}
 		
-		communism = {
-			popularity = 5
-			#banned = no #default is no
+		orthodox_marxist = {
+			popularity = 1
 		}
 		
-		neutrality = { 
+		libertarian_socialist = {
+			popularity = 1
+		}
+		
+		radical_ultranationalist = {
+			popularity = 1
+		}
+		
+		authoritarian = {
+			popularity = 8
+		}
+		
+		classical_liberal = {
 			popularity = 50
+		}
+		
+		reactionary_conservative = {
+			popularity = 37
+		}
+		
+		social_democrat = {
+			popularity = 1
+		}
+		
+		technocrat = {
+			popularity = 0
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = classical_liberal
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
