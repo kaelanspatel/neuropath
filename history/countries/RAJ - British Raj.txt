@@ -1,6 +1,6 @@
 ﻿capital = 439
 
-oob = "RAJ_1936"
+oob = "RAJ_1990"
 
 
 set_stability = 0.6
@@ -38,7 +38,7 @@ set_convoys = 20
 
 set_cosmetic_tag = RAJ_UK # British Raj
 
-1939.1.1 = {
+2500.1.1 = {
 	
 	if = {
 		limit = {

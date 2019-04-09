@@ -1,11 +1,11 @@
 ﻿capital = 16
 
-oob = "FRA_1936"
+oob = "FRA_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "FRA_1936_naval_mtg"
+		set_naval_oob = "FRA_1990_naval_mtg"
 	else = {
-		set_naval_oob = "FRA_1936_naval_legacy"
+		set_naval_oob = "FRA_1990_naval_legacy"
 	}
 }
 
@@ -80,7 +80,7 @@ if = {
 	}
 	add_ideas = MTG_naval_treaty_adherent
 }
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 899
 
@@ -479,7 +479,7 @@ create_navy_leader = {
 }
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
@@ -849,7 +849,7 @@ if = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

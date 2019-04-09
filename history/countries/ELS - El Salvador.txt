@@ -1,6 +1,6 @@
 ﻿capital = 314
 
-oob = "ELS_1936"
+oob = "ELS_1990"
 
 # Starting tech
 set_technology = {
@@ -11,7 +11,7 @@ set_country_flag = monroe_doctrine
 set_war_support = 0.1
 set_convoys = 5
 
-1939.1.1 = {
+2500.1.1 = {
 	add_political_power = 1198
 	
 	#generic focuses
@@ -90,7 +90,7 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {

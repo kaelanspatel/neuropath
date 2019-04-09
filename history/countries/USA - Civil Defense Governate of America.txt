@@ -1,11 +1,11 @@
 ﻿capital = 361
 
-oob = "USA_1936"
+oob = "USA_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "USA_1936_naval_mtg"
+		set_naval_oob = "USA_1990_naval_mtg"
 	else = {
-		set_naval_oob = "USA_1936_naval_legacy"
+		set_naval_oob = "USA_1990_naval_legacy"
 	}
 }
 
@@ -97,7 +97,7 @@ if = {
 }
 
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1199
 	
@@ -313,7 +313,7 @@ add_ideas = {
 # DIPLOMACY
 
 
-1939.1.1 = {
+2500.1.1 = {
 
 	set_politics = {
 
@@ -333,7 +333,7 @@ add_ideas = {
 		}
 		
 		ruling_party = democratic
-		last_election = "1936.11.3"
+		last_election = "1990.11.3"
 		election_frequency = 48
 		elections_allowed = yes
 	}
@@ -719,7 +719,7 @@ create_navy_leader = {
 
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
@@ -1099,7 +1099,7 @@ if = {
 
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

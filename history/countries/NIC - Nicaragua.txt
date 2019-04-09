@@ -1,6 +1,6 @@
 ﻿capital = 317
 
-oob = "NIC_1936"
+oob = "NIC_1990"
 
 # Starting tech
 set_technology = {
@@ -13,7 +13,7 @@ set_country_flag = monroe_doctrine
 set_war_support = 0.1
 set_convoys = 10
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -98,7 +98,7 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -121,7 +121,7 @@ create_country_leader = {
 		}
 		
 		ruling_party = neutrality
-		last_election = "1936.12.8"
+		last_election = "1990.12.8"
 		election_frequency = 48
 		elections_allowed = no
 	}

@@ -1,6 +1,6 @@
 ﻿capital = 43
 
-oob = "HUN_1936"
+oob = "HUN_1990"
 
 set_research_slots = 3
 set_stability = 0.7
@@ -28,7 +28,7 @@ if = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	remove_ideas = HUN_treaty_of_triannon
 
 	add_political_power = 1198
@@ -203,7 +203,7 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = {
 			has_dlc = "Death or Dishonor"

@@ -1,6 +1,6 @@
 ﻿capital = 9
 
-oob = "DAN_1936"
+oob = "DAN_1990"
 
 set_technology = {
 	infantry_weapons = 1

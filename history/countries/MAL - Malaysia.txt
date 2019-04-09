@@ -1,6 +1,6 @@
 ﻿capital = 336 #Kuala Lumpur
 
-oob = "MAL_1936"
+oob = "MAL_1990"
 
 set_research_slots = 3
 
@@ -115,7 +115,7 @@ create_country_leader = {
 
 set_cosmetic_tag = MAL_UK # British Malaya
 
-1939.1.1 = {
+2500.1.1 = {
 	add_political_power = 1198
 	
 	#generic focuses

@@ -1,7 +1,7 @@
 ﻿capital = 500
 
 
-oob = "BRA_1936"
+oob = "BRA_1990"
 
 # Starting tech
 set_technology = {
@@ -27,7 +27,7 @@ if = {
 		early_battleship = 1
 		transport = 1
 	}
-	set_naval_oob = "BRA_1936_naval_legacy"
+	set_naval_oob = "BRA_1990_naval_legacy"
 }
 if = {
 	limit = { has_dlc = "Man the Guns"}
@@ -44,11 +44,11 @@ if = {
 		basic_torpedo = 1
 		mtg_transport = 1
 	}
-	set_naval_oob = "BRA_1936_naval"	
+	set_naval_oob = "BRA_1990_naval"	
 }
 set_country_flag = monroe_doctrine
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -189,7 +189,7 @@ create_country_leader = {
 
 set_convoys = 40
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -316,7 +316,7 @@ if = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = {
 			has_dlc = "Man the Guns"

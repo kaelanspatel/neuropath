@@ -1,6 +1,6 @@
 ﻿capital = 48
 
-oob = "BUL_1936"
+oob = "BUL_1990"
 
 add_ideas = {
 	limited_conscription
@@ -16,7 +16,7 @@ set_technology = {
 	fuel_silos = 1
 }
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -125,7 +125,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 	parties = {

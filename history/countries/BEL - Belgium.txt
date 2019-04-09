@@ -1,6 +1,6 @@
 ﻿capital = 6
 
-oob = "BEL_1936"
+oob = "BEL_1990"
 
 set_research_slots = 3
 set_stability = 0.8
@@ -19,7 +19,7 @@ set_technology = {
 	fuel_refining = 1
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	add_ideas = {
 		limited_conscription
 	}
@@ -98,7 +98,7 @@ set_politics = {
 	elections_allowed = yes
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {

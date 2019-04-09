@@ -1,11 +1,11 @@
 ﻿capital = 112
 
-oob = "POR_1936"
+oob = "POR_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "POR_1936_naval_mtg"
+		set_naval_oob = "POR_1990_naval_mtg"
 	else = {
-		set_naval_oob = "POR_1936_naval_legacy"
+		set_naval_oob = "POR_1990_naval_legacy"
 	}
 }
 
@@ -46,7 +46,7 @@ if = {
 		mtg_transport = 1
 	}
 }
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -131,7 +131,7 @@ set_politics = {
 	elections_allowed = yes
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -210,7 +210,7 @@ create_corps_commander = {
 }
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###

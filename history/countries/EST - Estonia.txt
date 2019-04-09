@@ -1,6 +1,6 @@
 ﻿capital = 13
 
-oob = "EST_1936"
+oob = "EST_1990"
 
 set_research_slots = 3
 
@@ -35,7 +35,7 @@ if = {
 
 set_convoys = 5
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -138,7 +138,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -181,7 +181,7 @@ create_country_leader = {
 
 ### VARIANTS ###
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

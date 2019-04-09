@@ -1,6 +1,6 @@
 ﻿capital = 284
 
-oob = "NZL_1936"
+oob = "NZL_1990"
 
 # Starting tech
 set_stability = 0.8
@@ -46,7 +46,7 @@ if = {
 	add_to_tech_sharing_group = commonwealth_research
 }
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	oob = "NZL_1939"
@@ -216,7 +216,7 @@ create_country_leader = {
 
 set_convoys = 70
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -311,7 +311,7 @@ create_navy_leader = {
 
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
@@ -348,7 +348,7 @@ if = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

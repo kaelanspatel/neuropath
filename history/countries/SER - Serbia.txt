@@ -1,6 +1,6 @@
 ﻿capital = 107
 
-oob = "YUG_1936"
+oob = "YUG_1990"
 
 set_research_slots = 3
 
@@ -23,7 +23,7 @@ set_technology = {
 	fuel_silos = 1
 }
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_ideas = {
 		limited_conscription
@@ -104,12 +104,12 @@ set_politics = {
 	}
 	
 	ruling_party = neutrality
-	last_election = "1936.1.1"
+	last_election = "1990.1.1"
 	election_frequency = 36
 	elections_allowed = yes
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {

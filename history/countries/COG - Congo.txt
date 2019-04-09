@@ -1,6 +1,6 @@
 ﻿capital = 295
 
-oob = "COG_1936"
+oob = "COG_1990"
 
 # Starting tech
 set_technology = {
@@ -10,7 +10,7 @@ set_technology = {
 
 set_convoys = 5
 
-1939.1.1 = {
+2500.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -67,7 +67,7 @@ set_politics = {
 	}
 	
 	ruling_party = neutrality
-	last_election = "1936.1.1"
+	last_election = "1990.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -106,7 +106,7 @@ create_country_leader = {
 
 
 #Now a colony of Italy  However, if independent it would have
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -129,7 +129,7 @@ create_country_leader = {
 	}
 		
 		ruling_party = neutrality
-		last_election = "1936.1.1"
+		last_election = "1990.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}

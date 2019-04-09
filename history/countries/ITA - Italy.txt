@@ -1,6 +1,6 @@
 ﻿capital = 2
 
-oob = "ITA_1936"
+oob = "ITA_1990"
 
 set_research_slots = 4
 set_stability = 0.6
@@ -49,7 +49,7 @@ if = {
 		early_battlecruiser = 1
 		transport = 1
 	}
-	set_naval_oob = "ITA_1936_naval_legacy"
+	set_naval_oob = "ITA_1990_naval_legacy"
 }
 if = {
 	limit = { has_dlc = "Man the Guns" }
@@ -72,7 +72,7 @@ if = {
 		mtg_transport = 1
 		coastal_defense_ships = 1
 	}
-	set_naval_oob = "ITA_1936_naval_mtg"
+	set_naval_oob = "ITA_1990_naval_mtg"
 }
 if = {
 	limit = {
@@ -84,7 +84,7 @@ if = {
 # DIPLOMACY / WAR 36
 if = {
 	limit = {
-		has_start_date < 1936.01.02
+		has_start_date < 1990.01.02
 	}
 
 	declare_war_on = {
@@ -94,7 +94,7 @@ if = {
 	give_guarantee = ALB
 }
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -446,7 +446,7 @@ create_navy_leader = {
 
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 #plane variants
 create_equipment_variant = {
 		name = "CR.42"
@@ -819,7 +819,7 @@ if = {
 }
 
 
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		create_equipment_variant = {

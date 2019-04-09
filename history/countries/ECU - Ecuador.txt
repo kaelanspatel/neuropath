@@ -1,6 +1,6 @@
 ﻿capital = 305
 
-oob = "ECU_1936"
+oob = "ECU_1990"
 
 # Starting tech
 set_technology = {
@@ -12,7 +12,7 @@ set_country_flag = monroe_doctrine
 set_war_support = 0.1
 set_convoys = 5
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -92,7 +92,7 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {

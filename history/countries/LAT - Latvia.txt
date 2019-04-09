@@ -1,11 +1,11 @@
 ﻿capital = 12
 
-oob = "LAT_1936"
+oob = "LAT_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "LAT_1936_naval_mtg"
+		set_naval_oob = "LAT_1990_naval_mtg"
 	else = {
-		set_naval_oob = "LAT_1936_naval_legacy"
+		set_naval_oob = "LAT_1990_naval_legacy"
 	}
 }
 
@@ -36,7 +36,7 @@ set_research_slots = 3
 
 set_convoys = 10
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -124,7 +124,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-1939.1.1 = {# probably needs some adjustment before nazi occupation in 1940
+2500.1.1 = {# probably needs some adjustment before nazi occupation in 1940
 	set_politics = {
 
 		parties = {
@@ -206,7 +206,7 @@ create_corps_commander = {
 }
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###

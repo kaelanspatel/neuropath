@@ -8,7 +8,7 @@ set_technology = {
 
 set_convoys = 20
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -102,7 +102,7 @@ set_politics = {
 	}
 	
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
+	last_election = "1990.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }

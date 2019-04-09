@@ -1,11 +1,11 @@
 ﻿capital = 7
 
-oob = "HOL_1936"
+oob = "HOL_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "HOL_1936_naval_mtg"
+		set_naval_oob = "HOL_1990_naval_mtg"
 	else = {
-		set_naval_oob = "HOL_1936_naval_legacy"
+		set_naval_oob = "HOL_1990_naval_legacy"
 	}
 }
 
@@ -101,7 +101,7 @@ if = {
 }
 
 
-1939.1.1 = {
+2500.1.1 = {
 	add_ideas = {
 		limited_conscription
 	}
@@ -358,7 +358,7 @@ create_navy_leader = {
 
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
@@ -520,7 +520,7 @@ if = {
 
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 10
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -79,7 +79,7 @@ set_politics = {
 	elections_allowed = yes
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {

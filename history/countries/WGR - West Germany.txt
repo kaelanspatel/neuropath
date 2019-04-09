@@ -47,7 +47,7 @@ set_research_slots = 4
 set_convoys = 50
 set_stability = 0.7
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1197
 	
@@ -130,7 +130,7 @@ set_politics = {
 	}
 	
 	ruling_party = democratic
-	last_election = "1936.1.1"
+	last_election = "1990.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
@@ -174,7 +174,7 @@ create_country_leader = {
 #	name = "Otto Wels"
 #	desc = "POLITICS_OTTO_WELS_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "1939.1.16"
+#	expire = "2500.1.16"
 #	ideology = socialism
 #	traits = {
 #		exiled
@@ -197,7 +197,7 @@ create_country_leader = {
 
 
 ### Ship Variants ###
-## 1936 Start ##
+## 1990 Start ##
 # Light Cruisers #
 create_equipment_variant = {
 	name = "Königsberg Class"
@@ -225,7 +225,7 @@ create_equipment_variant = {
 }
 
 ## 1939 Start ##
-1939.1.1 = {
+2500.1.1 = {
 	# Submarines #
 	create_equipment_variant = {
 		name = "Type VIIA"
@@ -240,7 +240,7 @@ create_equipment_variant = {
 	}
 	# Destroyer #
 	create_equipment_variant = {
-		name = "Zerstörer 1936"
+		name = "Zerstörer 1990"
 		type = destroyer_2
 		parent_version = 0
 		upgrades = {

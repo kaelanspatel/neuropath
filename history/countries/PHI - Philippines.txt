@@ -1,6 +1,6 @@
 ﻿capital = 327
 
-oob = "PHI_1936"
+oob = "PHI_1990"
 
 # Starting tech
 set_technology = {
@@ -15,7 +15,7 @@ set_technology = {
 
 set_convoys = 5
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -111,7 +111,7 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {

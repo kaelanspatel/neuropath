@@ -1,11 +1,11 @@
 ﻿capital = 613 # Nanjing
 
-oob = "CHI_1936"
+oob = "CHI_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "CHI_1936_naval_mtg"
+		set_naval_oob = "CHI_1990_naval_mtg"
 	else = {
-		set_naval_oob = "CHI_1936_naval_legacy"
+		set_naval_oob = "CHI_1990_naval_legacy"
 	}
 }
 
@@ -69,7 +69,7 @@ save_global_event_target_as = WTT_current_china_leader
 
 set_convoys = 40
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	set_stability = 0.5
@@ -241,7 +241,7 @@ set_politics = {
 	}
 	
 	ruling_party = social_democrat
-	last_election = "1936.1.1"
+	last_election = "1990.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
@@ -294,7 +294,7 @@ create_country_leader = {
 
 add_opinion_modifier = { target = PRC modifier = hostile_status }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -317,7 +317,7 @@ add_opinion_modifier = { target = PRC modifier = hostile_status }
 	}
 		
 		ruling_party = neutrality
-		last_election = "1936.1.1"
+		last_election = "1990.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
@@ -434,7 +434,7 @@ create_field_marshal = {
 }
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 }

@@ -1,11 +1,11 @@
 ﻿capital = 276
 
-oob = "CAN_1936"
+oob = "CAN_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-	set_naval_oob = "CAN_1936_naval_mtg"
+	set_naval_oob = "CAN_1990_naval_mtg"
 	else = {
-		set_naval_oob = "CAN_1936_naval_legacy"
+		set_naval_oob = "CAN_1990_naval_legacy"
 	}
 }
 
@@ -66,7 +66,7 @@ if = {
 	add_to_tech_sharing_group = commonwealth_research
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	add_political_power = 1198
 	
 	
@@ -239,7 +239,7 @@ create_country_leader = {
 set_convoys = 100
 set_stability = 0.75
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -350,7 +350,7 @@ create_navy_leader = {
 }
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
@@ -406,7 +406,7 @@ if = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

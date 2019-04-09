@@ -1,11 +1,11 @@
 ﻿capital = 141	
 
-oob = "SWE_1936"
+oob = "SWE_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "SWE_1936_naval_mtg"
+		set_naval_oob = "SWE_1990_naval_mtg"
 	else = {
-		set_naval_oob = "SWE_1936_naval_legacy"
+		set_naval_oob = "SWE_1990_naval_legacy"
 	}
 }
 
@@ -65,7 +65,7 @@ if = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -187,13 +187,13 @@ set_politics = {
 	}
 		
 	ruling_party = esotericist
-	last_election = "1936.9.20"
+	last_election = "1990.9.20"
 	election_frequency = 48
 	elections_allowed = no
 	
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -240,7 +240,7 @@ set_politics = {
 		}
 		
 		ruling_party = esotericist
-		last_election = "1936.9.20"
+		last_election = "1990.9.20"
 		election_frequency = 48
 		elections_allowed = no
 	}
@@ -333,7 +333,7 @@ create_navy_leader = {
 
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
@@ -551,7 +551,7 @@ if = {
 }
 
 # 1939 Start #
-1939.1.1 = {
+2500.1.1 = {
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		# Ship variants #

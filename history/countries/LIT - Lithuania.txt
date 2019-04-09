@@ -1,6 +1,6 @@
 ﻿capital = 11
 
-oob = "LIT_1936"
+oob = "LIT_1990"
 
 set_research_slots = 3
 
@@ -16,7 +16,7 @@ set_technology = {
 
 set_convoys = 10
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -94,7 +94,7 @@ set_politics = {
 	elections_allowed = no
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -116,7 +116,7 @@ set_politics = {
 		}
 		
 		ruling_party = neutrality
-		last_election = "1936.6.10"
+		last_election = "1990.6.10"
 		election_frequency = 120
 		elections_allowed = no
 	}

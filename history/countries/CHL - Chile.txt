@@ -1,11 +1,11 @@
 ﻿capital = 279
 
-oob = "CHL_1936"
+oob = "CHL_1990"
 if = {
 	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "CHL_1936_naval_mtg"
+		set_naval_oob = "CHL_1990_naval_mtg"
 	else = {
-		set_naval_oob = "CHL_1936_naval_legacy"
+		set_naval_oob = "CHL_1990_naval_legacy"
 	}
 }
 
@@ -51,7 +51,7 @@ set_country_flag = monroe_doctrine
 
 set_convoys = 20
 
-1939.1.1 = {
+2500.1.1 = {
 
 	add_political_power = 1198
 	
@@ -149,7 +149,7 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
+2500.1.1 = {
 	set_politics = {
 
 		parties = {
@@ -220,7 +220,7 @@ create_corps_commander = {
 
 
 ### VARIANTS ###
-# 1936 Start #
+# 1990 Start #
 if = {
 	limit = { not = { has_dlc = "Man the Guns" } }
 	### Ship Variants ###
