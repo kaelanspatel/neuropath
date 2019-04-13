@@ -481,8 +481,8 @@ CAT = {
 	color_ui = rgb { 186 205 219 }
 }
 CCN = {
-	color = rgb { 86 93 136  }
-	color_ui = rgb { 186 205 219 }
+	color = rgb { 119 48 39  }
+	color_ui = rgb { 119 48 39 }
 }
 CQB = {
 	color = rgb { 86 93 136  }
@@ -515,6 +515,18 @@ LEV = {
 IND = {
 	color = rgb { 255 93 0 } # 0 56 224
 	color_ui = rgb { 0 56 224 }
+}
+ALS = {
+	color = rgb { 160 9 9 }
+	color_ui = rgb { 160 9 9 }
+}
+FED = {
+	color = rgb { 6 67 165 }
+	color_ui = rgb { 6 67 165 }
+}
+TEX = {
+	color = rgb { 142 126 105 }
+	color_ui = rgb { 142 126 105 }
 }
 
 D01 = {
