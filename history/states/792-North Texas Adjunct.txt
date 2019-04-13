@@ -1,0 +1,23 @@
+state={
+	id=792
+	name="STATE_792" # North Texas Adjunct
+	manpower = 10000
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			
+		}
+		owner = FED
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = FED
+
+	}
+
+	provinces={
+		3972 2055 9908
+	}
+}

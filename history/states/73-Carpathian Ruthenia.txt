@@ -16,7 +16,7 @@ state={
 		add_core_of = SOV
 		add_claim_by = LUX
 
-		1939.3.14 = {
+		2500.3.14 = {
 			owner = LUX
 			controller = LUX
 			remove_claim_by = LUX

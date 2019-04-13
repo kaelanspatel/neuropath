@@ -21,7 +21,7 @@ state={
 		add_core_of = DAN
 		add_claim_by = DAN
 
-		1939.3.14 = {
+		2500.3.14 = {
 			owner = DAN
 			controller = DAN
 			remove_claim_by = DAN

@@ -33,7 +33,7 @@ state={
 			}
 		}
 		add_core_of = FRA
-		1939.1.1 = {
+		2500.1.1 = {
 			buildings = {
 				dockyard = 3
 			}

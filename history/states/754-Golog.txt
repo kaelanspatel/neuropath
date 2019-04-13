@@ -21,7 +21,7 @@ state={
 			arms_factory = 1
 
 		}
-		1938.10.25 = {
+		2500.10.25 = {
 			if = {
 				limit = {
 					NOT = {

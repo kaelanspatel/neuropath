@@ -7,14 +7,14 @@ state={
 	state_category = city
 
 	history={
-		owner = USA
+		owner = FED
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
 			air_base = 3
 			
 		}
-		add_core_of = USA
+		add_core_of = FED
 		victory_points = {
 			7138 3 
 		}

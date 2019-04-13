@@ -19,7 +19,7 @@ state=
 		}
 		add_core_of = DAN
 
-		1938.9.30 = {
+		2500.9.30 = {
 			owner = GER
 			controller = GER
 		}

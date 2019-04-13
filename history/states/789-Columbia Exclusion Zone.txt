@@ -10,11 +10,11 @@ state={
 		victory_points = {
 			
 		}
-		owner = USA
+		owner = FED
 		buildings = {
 			
 		}
-		add_core_of = USA
+		add_core_of = FED
 
 	}
 

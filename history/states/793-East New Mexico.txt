@@ -1,0 +1,24 @@
+state={
+	id=793
+	name="STATE_793" # East New Mexico
+	manpower = 200000
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			4975 1
+		}
+		owner = TEX
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = TEX
+
+	}
+
+	provinces={
+		 10867 12684 4975 3883 8070 12720 12791 3867
+	}
+}

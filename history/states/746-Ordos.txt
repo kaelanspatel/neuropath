@@ -18,11 +18,11 @@ state={
 			infrastructure = 2
 		}
 
-		1938.10.25 = {
+		2500.10.25 = {
 			controller = JAP
 		}
 		
-		1939.1.1 = {
+		2500.1.1 = {
 			
 			owner = CHI
 			controller = CHI
