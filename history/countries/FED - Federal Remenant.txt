@@ -241,7 +241,7 @@ set_politics = {
 
 	parties = {
 		esotericist = { 
-			popularity = 17
+			popularity = 12
 		}
 
 		neuro_communist = {
@@ -253,56 +253,41 @@ set_politics = {
 		}
 		
 		libertarian_socialist = {
-			popularity = 3
+			popularity = 0
 		}
 		
 		radical_ultranationalist = {
-			popularity = 2
+			popularity = 13
 		}
 		
 		authoritarian = {
-			popularity = 1
+			popularity = 6
 		}
 		
 		classical_liberal = {
-			popularity = 5
+			popularity = 27
 		}
 		
 		reactionary_conservative = {
-			popularity = 3
+			popularity = 34
 		}
 		
 		social_democrat = {
-			popularity = 2
+			popularity = 7
 		}
 		
 		technocrat = {
-			popularity = 67
+			popularity = 1
 		}
 	}
 	
-	ruling_party = technocrat
+	ruling_party = reactionary_conservative
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 	
 }
 
-create_faction = Pacific_Union_Treaty
-add_to_faction = USA
-add_to_faction = JAP
-add_to_faction = CAT
-add_to_faction = CCN
-add_to_faction = PMX
-add_to_faction = CQB
-add_to_faction = PHI
-add_to_faction = AST
-add_to_faction = INS
-
-puppet = CAT
-puppet = CCN
-puppet = CQB
-puppet = PMX
 
 
 add_ideas = {

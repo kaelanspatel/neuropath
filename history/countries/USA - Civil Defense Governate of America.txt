@@ -292,7 +292,6 @@ create_faction = Pacific_Union_Treaty
 add_to_faction = USA
 add_to_faction = JAP
 add_to_faction = CAT
-add_to_faction = CCN
 add_to_faction = PMX
 add_to_faction = CQB
 add_to_faction = PHI
@@ -300,8 +299,6 @@ add_to_faction = AST
 add_to_faction = INS
 
 puppet = CAT
-puppet = CCN
-puppet = CQB
 puppet = PMX
 
 
