@@ -237,55 +237,26 @@ if = {
 set_convoys = 400
 
 
+
 set_politics = {
-
-	parties = {
-		esotericist = { 
-			popularity = 17
-		}
-
-		neuro_communist = {
-			popularity = 0
-		}
-		
-		orthodox_marxist = {
-			popularity = 0
-		}
-		
-		libertarian_socialist = {
-			popularity = 3
-		}
-		
-		radical_ultranationalist = {
-			popularity = 2
-		}
-		
-		authoritarian = {
-			popularity = 1
-		}
-		
-		classical_liberal = {
-			popularity = 5
-		}
-		
-		reactionary_conservative = {
-			popularity = 3
-		}
-		
-		social_democrat = {
-			popularity = 2
-		}
-		
-		technocrat = {
-			popularity = 67
-		}
-	}
-	
 	ruling_party = technocrat
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 	
+}
+
+set_popularities = {
+	esotericist = 17
+	neuro_communist = 0	
+	orthodox_marxist = 0
+	libertarian_socialist = 3
+	radical_ultranationalist = 2
+	authoritarian = 1
+	classical_liberal = 5
+	reactionary_conservative = 3
+	social_democrat = 2
+	technocrat = 67
 }
 
 create_faction = Pacific_Union_Treaty
@@ -304,36 +275,7 @@ puppet = PMX
 
 add_ideas = {
 	
-}
-
-
-# DIPLOMACY
-
-
-2500.1.1 = {
-
-	set_politics = {
-
-		parties = {
-			democratic = { 
-				popularity = 99
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 1
-				#banned = no #default is no
-			}
-		}
-		
-		ruling_party = democratic
-		last_election = "1990.11.3"
-		election_frequency = 48
-		elections_allowed = yes
-	}
+	
 }
 
 create_country_leader = {

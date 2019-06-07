@@ -281,59 +281,27 @@ create_import = {
 	}
 }
 
+set_popularities = {
+	esotericist = 3
+	neuro_communist = 31
+	orthodox_marxist = 40
+	libertarian_socialist = 9
+	radical_ultranationalist = 2
+	authoritarian = 0
+	classical_liberal = 2
+	reactionary_conservative = 2
+	social_democrat = 10
+	technocrat = 1
+}
+
 set_politics = {
 
-	parties = {
-		esotericist = { 
-			popularity = 3
-		}
-
-		neuro_communist = {
-			popularity = 31
-		}
-		
-		orthodox_marxist = {
-			popularity = 40
-		}
-		
-		libertarian_socialist = {
-			popularity = 9
-		}
-		
-		radical_ultranationalist = {
-			popularity = 2
-		}
-		
-		authoritarian = {
-			popularity = 0
-		}
-		
-		classical_liberal = {
-			popularity = 2
-		}
-		
-		reactionary_conservative = {
-			popularity = 2
-		}
-		
-		social_democrat = {
-			popularity = 10
-		}
-		
-		technocrat = {
-			popularity = 1
-		}
-	}
-	
 	ruling_party = orthodox_marxist
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 
 }
-
-create_faction = Axis
-add_to_faction = GER
 
 
 add_ideas = {
