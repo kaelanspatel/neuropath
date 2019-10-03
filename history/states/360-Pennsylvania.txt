@@ -12,7 +12,7 @@ state={
 
 
 	history={
-		owner = ALS
+		owner = FED
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 5
@@ -20,7 +20,7 @@ state={
 			air_base = 2
 			
 		}
-		add_core_of = ALS
+		add_core_of = FED
 		victory_points = {
 			
 		}

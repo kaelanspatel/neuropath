@@ -8,7 +8,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = ALS
+		owner = FED
 		victory_points = {
 			
 		}
@@ -18,7 +18,7 @@ state={
 		buildings = {
 			
 		}
-		add_core_of = ALS
+		add_core_of = FED
 
 	}
 

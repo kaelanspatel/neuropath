@@ -8,7 +8,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = CCN
+		owner = CQB
 		buildings = {
 			infrastructure = 1
 			3691 = {
@@ -16,7 +16,7 @@ state={
 			}
 
 		}
-		add_core_of = CCN
+		add_core_of = CQB
 		victory_points = {
 			4345 20
 		}

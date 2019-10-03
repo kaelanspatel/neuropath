@@ -254,8 +254,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 130 147 189 }
-	color_ui = rgb { 87 160 255 }
+	color = rgb { 53 132 100 }
+	color_ui = rgb { 61 155 117 }
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }
@@ -477,20 +477,20 @@ CSA = {
 }
 
 CAT = {
-	color = rgb { 86 93 136  }
-	color_ui = rgb { 186 205 219 }
+	color = rgb { 88 148 124  }
+	color_ui = rgb { 88 148 124  }
 }
 CCN = {
-	color = rgb { 119 48 39  }
-	color_ui = rgb { 119 48 39 }
+	color = rgb { 88 148 124  }
+	color_ui = rgb { 88 148 124 }
 }
 CQB = {
-	color = rgb { 86 93 136  }
-	color_ui = rgb { 186 205 219 }
+	color = rgb { 88 148 124 }
+	color_ui = rgb { 88 148 124 }
 }
 PMX = {
-	color = rgb { 86 93 136  }
-	color_ui = rgb { 186 205 219 }
+	color = rgb { 88 148 124 }
+	color_ui = rgb { 88 148 124 }
 }
 EUR = {
 	color = rgb { 213 174 196   }
@@ -521,12 +521,12 @@ ALS = {
 	color_ui = rgb { 160 9 9 }
 }
 FED = {
-	color = rgb { 6 67 165 }
-	color_ui = rgb { 6 67 165 }
+	color = rgb { 62 153 116 }
+	color_ui = rgb { 62 179 131 }
 }
 TEX = {
-	color = rgb { 142 126 105 }
-	color_ui = rgb { 142 126 105 }
+	color = rgb { 88 148 124 }
+	color_ui = rgb { 88 148 124 }
 }
 
 D01 = {

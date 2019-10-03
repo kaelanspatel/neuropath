@@ -5,7 +5,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = CCN
+		owner = CQB
 		buildings = {
 			infrastructure = 1
 
@@ -13,7 +13,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = CCN
+		add_core_of = CQB
 
 	}
 
