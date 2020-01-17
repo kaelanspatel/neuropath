@@ -56,50 +56,20 @@ set_convoys = 20
 	}
 }
 
+set_popularities = {
+	esotericist = 0
+	neuro_communist = 1
+	orthodox_marxist = 1
+	libertarian_socialist = 1
+	radical_ultranationalist = 1
+	authoritarian = 8
+	classical_liberal = 50
+	reactionary_conservative = 37
+	social_democrat = 1
+	technocrat = 0
+}
 
 set_politics = {
-
-	parties = {
-		esotericist = { 
-			popularity = 0
-		}
-
-		neuro_communist = {
-			popularity = 1
-		}
-		
-		orthodox_marxist = {
-			popularity = 1
-		}
-		
-		libertarian_socialist = {
-			popularity = 1
-		}
-		
-		radical_ultranationalist = {
-			popularity = 1
-		}
-		
-		authoritarian = {
-			popularity = 8
-		}
-		
-		classical_liberal = {
-			popularity = 50
-		}
-		
-		reactionary_conservative = {
-			popularity = 37
-		}
-		
-		social_democrat = {
-			popularity = 1
-		}
-		
-		technocrat = {
-			popularity = 0
-		}
-	}
 	
 	ruling_party = classical_liberal
 	last_election = "1990.1.1"

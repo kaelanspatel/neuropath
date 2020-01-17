@@ -1,8 +1,8 @@
 import os
 
 directory = 'states' # directory for files; script should be one level up from directory
-to_replace = 'TEX' # string to be replaced
-replace = 'FED' # what to replace string to be replaced with
+to_replace = 'CAT' # string to be replaced
+replace = 'CAN' # what to replace string to be replaced with
 
 def main():
     for filename in os.listdir(directory):
