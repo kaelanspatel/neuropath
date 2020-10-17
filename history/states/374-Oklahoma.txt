@@ -13,18 +13,18 @@ state={
 
 
 	history={
-		owner = USA
+		owner = CDG
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			air_base = 2
 		}
-		add_core_of = USA
+		add_core_of = CDG
 		victory_points = {
 			1806 1 
 		}
 
-		2500.1.1 = {
+		1939.1.1 = {
 			buildings = {
 				industrial_complex = 3
 			}

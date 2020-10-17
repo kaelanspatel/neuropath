@@ -6,7 +6,8 @@ state=
 	manpower=75153
 	history=
 	{
-		owner = USA
+		owner = CDG
+		add_core_of = GUM
 		buildings = {
 			infrastructure = 5
 			12140 = {

@@ -21,7 +21,7 @@ state={
 			air_base = 2
 		}
 		add_core_of = FRA
-		2500.1.1 = {
+		1939.1.1 = {
 			buildings = {
 				industrial_complex = 3
 			}

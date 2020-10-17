@@ -10,7 +10,7 @@ state={
 	state_category = town
 	
 	history={
-		owner = DAN
+		owner = CZE
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -18,14 +18,14 @@ state={
 		victory_points = {
 			6573 1 
 		}
-		add_core_of = DAN
-		add_claim_by = DAN
+		add_core_of = CZE
+		add_claim_by = HUN
 
-		2500.3.14 = {
-			owner = DAN
-			controller = DAN
-			remove_claim_by = DAN
-			add_core_of = DAN
+		1939.3.14 = {
+			owner = HUN
+			controller = HUN
+			remove_claim_by = HUN
+			add_core_of = HUN
 			add_core_of = SLO
 		}
 	}

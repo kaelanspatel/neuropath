@@ -10,7 +10,7 @@ state={
 	history={
 		owner = CHI
 		add_core_of = CHI
-		add_core_of = CHI
+		add_core_of = PRC
 		buildings = {
 			infrastructure = 4
 		}
@@ -18,7 +18,7 @@ state={
 			12019 1
 		}
 		
-		2500.10.25 = {
+		1938.10.25 = {
 			controller = JAP
 			CHI = {
 				set_province_controller = 1125

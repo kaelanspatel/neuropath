@@ -2,16 +2,16 @@
 state={
 	id=390
 	name="STATE_390"
-	manpower = 342849
+	manpower = 692849
 	state_category = rural
 
 	history={
-		owner = USA
+		owner = CDG
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = USA
+		add_core_of = CDG
 		victory_points = {
 			1747 1 
 		}
@@ -19,6 +19,6 @@ state={
 	}
 
 	provinces={
-		1747 1875 3750 4839 7745 7771
+		1747 1875 3750 4839 4880 7745 7771 7862 10569 10595 12620 12667 
 	}
 }

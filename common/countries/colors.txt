@@ -475,59 +475,21 @@ CSA = {
 	color = rgb { 145 163 176  }
 	color_ui = rgb { 186 205 219 }
 }
+CDG = {
+	color = rgb { 75 153 121 }
+	color_ui = rgb { 88 150 125 }
+}
+RUS = {
+	color = rgb { 107 120 115 }
+	color_ui = rgb { 107 120 115 }
+}
 
-CAT = {
-	color = rgb { 88 148 124  }
-	color_ui = rgb { 88 148 124  }
-}
-CCN = {
-	color = rgb { 88 148 124  }
-	color_ui = rgb { 88 148 124 }
-}
-CQB = {
-	color = rgb { 88 148 124 }
-	color_ui = rgb { 88 148 124 }
-}
-PMX = {
-	color = rgb { 88 148 124 }
-	color_ui = rgb { 88 148 124 }
-}
-EUR = {
-	color = rgb { 213 174 196   }
-	color_ui = rgb { 186 205 219 }
-}
-BEN = {
-	color = rgb { 255 174 124  }
-	color_ui = rgb { 186 205 219 }
-}
-DAN = {
-	color = rgb { 213 174 196   }
-	color_ui = rgb { 186 205 219 }
-}
-BRM = {
-	color = rgb { 111 84 124}
-	color_ui = rgb { 111 84 124 }
-}
-LEV = {
-	color = rgb { 249 186 59 }
-	color_ui = rgb { 249 186 59 }
-}
-IND = {
-	color = rgb { 255 93 0 } # 0 56 224
-	color_ui = rgb { 0 56 224 }
-}
-ALS = {
-	color = rgb { 160 9 9 }
-	color_ui = rgb { 160 9 9 }
-}
-FED = {
-	color = rgb { 62 153 116 }
-	color_ui = rgb { 62 179 131 }
-}
-TEX = {
-	color = rgb { 88 148 124 }
-	color_ui = rgb { 88 148 124 }
-}
+
+
+
+
+
+
 
 D01 = {
 	color = rgb { 200 100 31 }

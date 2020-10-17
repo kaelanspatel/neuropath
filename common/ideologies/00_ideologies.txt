@@ -4,7 +4,7 @@ ideologies = {
 		types = {
 			esotericist_subtype = {}
 		}
-		color = { 229 204 255 }
+		color = { 93 159 145 }
 		rules = {
 			can_force_government = no
 			can_puppet = no
@@ -25,10 +25,65 @@ ideologies = {
 			"FACTION_NAME_ESOTERICIST_5"
 		}
 	}
-
-	neuro_communist = {
+	
+	millenarianist = {
 		types = {
-			neuro_communist_subtype = {} #generic
+			millenarianist_subtype = {}
+				
+		}
+		color = { 231 229 164 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}		
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 1.00
+		}
+		ai_neutral = yes	
+		can_be_boosted = no
+		dynamic_faction_names = {
+			"FACTION_NAME_MILLENARIANIST_1"
+			"FACTION_NAME_MILLENARIANIST_2"
+			"FACTION_NAME_MILLENARIANIST_3"
+			"FACTION_NAME_MILLENARIANIST_4"
+			"FACTION_NAME_MILLENARIANIST_5"
+		}
+	}
+	
+	societal_collapse = {
+		types = {
+			societal_collapse_subtype = {}
+				
+		}
+		color = { 24 9 9 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = no
+		}		
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 1.00
+		}
+		ai_neutral = yes	
+		can_be_boosted = no
+		dynamic_faction_names = {
+			"FACTION_NAME_CHAOS_1"
+			"FACTION_NAME_CHAOS_2"
+			"FACTION_NAME_CHAOS_3"
+			"FACTION_NAME_CHAOS_4"
+			"FACTION_NAME_CHAOS_5"
+		}
+	}
+
+
+	neuro_socialist = {
+		types = {
+			neuro_socialist_subtype = {} #generic
 		}
 		color = { 155 17 58 }
 		rules = {
@@ -44,11 +99,11 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_NEURO_COMMUNIST_1"
-			"FACTION_NAME_NEURO_COMMUNIST_2"
-			"FACTION_NAME_NEURO_COMMUNIST_3"
-			"FACTION_NAME_NEURO_COMMUNIST_4"
-			"FACTION_NAME_NEURO_COMMUNIST_5"
+			"FACTION_NAME_NEURO_SOCIALIST_1"
+			"FACTION_NAME_NEURO_SOCIALIST_2"
+			"FACTION_NAME_NEURO_SOCIALIST_3"
+			"FACTION_NAME_NEURO_SOCIALIST_4"
+			"FACTION_NAME_NEURO_SOCIALIST_5"
 		}
 	}
 	
@@ -79,9 +134,9 @@ ideologies = {
 		}
 	}
 	
-	libertarian_socialist = {
+	liberal_socialist = {
 		types = {
-			libertarian_socialist_subtype = {}
+			liberal_socialist_subtype = {}
 				
 		}
 		color = { 255 128 191 }
@@ -98,11 +153,11 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_LIBERTARIAN_SOCIALIST_1"
-			"FACTION_NAME_LIBERTARIAN_SOCIALIST_2"
-			"FACTION_NAME_LIBERTARIAN_SOCIALIST_3"
-			"FACTION_NAME_LIBERTARIAN_SOCIALIST_4"
-			"FACTION_NAME_LIBERTARIAN_SOCIALIST_5"
+			"FACTION_NAME_LIBERAL_SOCIALIST_1"
+			"FACTION_NAME_LIBERAL_SOCIALIST_2"
+			"FACTION_NAME_LIBERAL_SOCIALIST_3"
+			"FACTION_NAME_LIBERAL_SOCIALIST_4"
+			"FACTION_NAME_LIBERAL_SOCIALIST_5"
 		}
 	}
 	
@@ -160,9 +215,9 @@ ideologies = {
 		}
 	}
 	
-	reactionary_conservative = {
+	conservative_democrat = {
 		types = {
-			reactionary_conservative_subtype = {}
+			conservative_democrat_subtype = {}
 				
 		}
 		color = { 0 102 255 }
@@ -179,20 +234,20 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_REACTIONARY_CONSERVATIVE_1"
-			"FACTION_NAME_REACTIONARY_CONSERVATIVE_2"
-			"FACTION_NAME_REACTIONARY_CONSERVATIVE_3"
-			"FACTION_NAME_REACTIONARY_CONSERVATIVE_4"
-			"FACTION_NAME_REACTIONARY_CONSERVATIVE_5"
+			"FACTION_NAME_CONSERVATIVE_DEMOCRAT_1"
+			"FACTION_NAME_CONSERVATIVE_DEMOCRAT_2"
+			"FACTION_NAME_CONSERVATIVE_DEMOCRAT_3"
+			"FACTION_NAME_CONSERVATIVE_DEMOCRAT_4"
+			"FACTION_NAME_CONSERVATIVE_DEMOCRAT_5"
 		}
 	}
 	
-	technocrat = {
+	traditionalist = {
 		types = {
-			technocrat_subtype = {}
+			traditionalist_subtype = {}
 				
 		}
-		color = { 63	 77 99 }
+		color = { 143 129 109 }
 		rules = {
 			can_force_government = no
 			can_puppet = no
@@ -206,11 +261,11 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_TECHNOCRAT_1"
-			"FACTION_NAME_TECHNOCRAT_2"
-			"FACTION_NAME_TECHNOCRAT_3"
-			"FACTION_NAME_TECHNOCRAT_4"
-			"FACTION_NAME_TECHNOCRAT_5"
+			"FACTION_NAME_TRADITIONALIST_1"
+			"FACTION_NAME_TRADITIONALIST_2"
+			"FACTION_NAME_TRADITIONALIST_3"
+			"FACTION_NAME_TRADITIONALIST_4"
+			"FACTION_NAME_TRADITIONALIST_5"
 		}
 	}
 	
@@ -241,9 +296,9 @@ ideologies = {
 		}
 	}
 	
-	radical_ultranationalist = {
+	ultranationalist = {
 		types = {
-			radical_ultranationalist_subtype = {}
+			ultranationalist_subtype = {}
 				
 		}
 		color = { 144 105 0 }
@@ -260,11 +315,11 @@ ideologies = {
 		ai_neutral = yes	
 		can_be_boosted = no
 		dynamic_faction_names = {
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_1"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_2"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_3"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_4"
-			"FACTION_NAME_RADICAL_ULTRANATIONALIST_5"
+			"FACTION_NAME_ULTRANATIONALIST_1"
+			"FACTION_NAME_ULTRANATIONALIST_2"
+			"FACTION_NAME_ULTRANATIONALIST_3"
+			"FACTION_NAME_ULTRANATIONALIST_4"
+			"FACTION_NAME_ULTRANATIONALIST_5"
 		}
 	}
 	

@@ -3,17 +3,21 @@ state={
 	id=764
 	name="STATE_764"
 	manpower = 585579
-	state_category = town
+	state_category = rural
 
 	history={
 		owner = YUG
 		controller = YUG
+		victory_points = {
+			3614 1
+		}
 
 		buildings = {
 			infrastructure = 6
 		}
 		add_core_of = YUG
 		add_core_of = SER
+		add_core_of = TRA
 	}
 
 	provinces={

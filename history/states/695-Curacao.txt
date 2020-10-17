@@ -11,7 +11,7 @@ state={
 
 	history={
 		add_core_of = CRC
-		owner = LUX
+		owner = HOL
 		victory_points = {
 			153 1
 		}

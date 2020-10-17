@@ -6,10 +6,10 @@ state={
 	}
 
 	history={
-		owner = CHI
+		owner = YUN
+		add_core_of = YUN
 		add_core_of = CHI
-		add_core_of = CHI
-		add_core_of = CHI
+		add_core_of = PRC
 		victory_points = {
 			1319 10 
 		}
@@ -19,7 +19,7 @@ state={
 			industrial_complex = 3
 
 		}
-		2500.10.25 = {
+		1938.10.25 = {
 			if = {
 				limit = {
 					NOT = {

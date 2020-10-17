@@ -1,28 +1,38 @@
 
 state={
 	id=361
-	name="STATE_361" # Not maryland, but Indiana Exclusion Zone
-	manpower = 0
+	name="STATE_361"
+	manpower = 2118394
 	
-	state_category = wasteland
-	impassable = yes
+	state_category = city
 
 	history={
-		owner = USA
+		owner = CDG
 		victory_points = {
-			
+			3957 40 
 		}
 		victory_points = {
-			
+			6984 5 
 		}
 		buildings = {
-			
+			infrastructure = 7
+			industrial_complex = 5
+			dockyard = 1
+			air_base = 6
+			6984 = {
+				naval_base = 2
+
+			}
+			3957 = {
+				naval_base = 1
+
+			}
 		}
-		add_core_of = USA
+		add_core_of = CDG
 
 	}
 
 	provinces={
-		10448 11621 11635 12437 4527 1604 
+		3957 6823 6892 6929 6984 9758 9786 11892 
 	}
 }

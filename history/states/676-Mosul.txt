@@ -11,14 +11,21 @@ state={
 
 
 	history={
-		owner = LEV
+		owner = IRQ
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
-			10106 1 
+			10106 5 
 		}
-		add_core_of = LEV
+		victory_points = {
+			3916 3 
+		}
+		victory_points = {
+			6826 1
+		}
+		add_core_of = IRQ
+		add_core_of = KUR
 	}
 	
 	provinces={

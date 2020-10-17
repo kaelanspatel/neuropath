@@ -7,7 +7,11 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = MOR
+		victory_points = {
+			12857 1
+		}
+
+		owner = SPR
 		add_core_of = MOR
 		buildings = {
 			infrastructure = 1

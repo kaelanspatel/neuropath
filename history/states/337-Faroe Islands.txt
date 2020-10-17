@@ -4,18 +4,18 @@ state=
 	name="STATE_337"
 	manpower = 25900
 	
-	state_category = enclave
+	state_category = small_island
 	
 	history=
 	{
-		owner = LUX
+		owner = DEN
 		buildings = {
 			infrastructure = 4
 			13003 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = LUX
+		add_core_of = DEN
 	}
 	provinces= { 13003 }
 }

@@ -9,7 +9,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = USA
+		owner = CDG
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
@@ -17,11 +17,11 @@ state={
 			air_base = 4
 
 		}
-		add_core_of = USA
+		add_core_of = CDG
 		victory_points = {
 			6710 20 
 		}
-		2500.1.1 = {
+		1939.1.1 = {
 			buildings = {
 				industrial_complex = 7
 

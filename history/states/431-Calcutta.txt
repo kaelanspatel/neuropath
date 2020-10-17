@@ -3,11 +3,11 @@ state={
 	name="STATE_431"
 	resources={
 		steel=13.000
-		tungsten=11.000
+		# tungsten=11.000
 	}
 
 	history={
-		owner = IND
+		owner = RAJ
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

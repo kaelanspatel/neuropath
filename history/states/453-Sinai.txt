@@ -8,9 +8,16 @@ state={
 	
 	
 	history = {
-		owner = EGY
+		owner = ENG
 		buildings = {
 			infrastructure = 2
+		}
+
+		victory_points = {
+			4161 3
+		}
+		victory_points = {
+			10099 1
 		}
 
 		add_core_of = EGY

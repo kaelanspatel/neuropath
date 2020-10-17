@@ -5,10 +5,12 @@ state={
 	manpower = 3944600
 	
 	state_category = town
-
+	resources={
+		tungsten = 120 
+	}
 	history={
 		add_core_of = BRM
-		owner = BRM
+		owner = RAJ
 		buildings = {
 			infrastructure = 3
 			air_base = 1
